@@ -1,0 +1,4763 @@
+[
+  {
+    "event_id": 1,
+    "event_name": "2026玖壹壹南北貳路音樂節",
+    "source_site": "kham",
+    "ticket_sale_time": "2026-09-14 11:00:00",
+    "event_time": "2026-11-09 13:30:00",
+    "event_url": "https://kham.com.tw/application//UTK02/UTK0201_.aspx?PRODUCT_ID=P1ENTKEA",
+    "scraped_at": "2026-09-13 18:19:37",
+    "venue_name": "台中水湳中央公園",
+    "venue_address": "台中市西屯區中科路2966號",
+    "venue_city": "台中市",
+    "venue_description": "大型戶外活動場地",
+    "tickets": [
+      {
+        "ticket_type": "超早鳥雙日票",
+        "price": 2380
+      },
+      {
+        "ticket_type": "早鳥單日票",
+        "price": 1680
+      }
+    ],
+    "artists": [
+      {
+        "name": "玖壹壹",
+        "wiki_intro": "玖壹壹（英語：Nine One One），發源於臺灣臺中的饒舌流行音樂團體，由春風、洋蔥、健志等三人組成。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E7%8E%96%E5%A3%B9%E5%A3%B9",
+        "artist_genres_summary": "流行音樂、饒舌",
+        "recent_news_title": "玖壹壹得獎了！ 盧秀燕親自頒獎：走上國際舞台仍惦記家鄉台中",
+        "recent_news_url": "https://www.ftnn.com.tw/news/578486"
+      }
+    ]
+  },
+  {
+    "event_id": 2,
+    "event_name": "2026 SHOW MUSICAL《WILD WILD》",
+    "source_site": "kham",
+    "ticket_sale_time": "2026-09-07 12:00:00",
+    "event_time": null,
+    "event_url": "https://kham.com.tw/application//UTK02/UTK0201_.aspx?PRODUCT_ID=P1F4200H",
+    "scraped_at": "2026-09-13 18:19:50",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 4880
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 4280
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 3680
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2880
+      }
+    ],
+    "artists": [
+      {
+        "name": "WILD WILD",
+        "wiki_intro": "來自韓國的音樂劇與表演秀，以強烈舞蹈及現代藝術風格為特色。",
+        "wiki_url": null,
+        "artist_genres_summary": "音樂劇、表演",
+        "recent_news_title": "韓國猛男秀WILD WILD火辣回歸！加入新亮點北中南上演11場",
+        "recent_news_url": "https://news.nextapple.com/entertainment/20260905/5ECE0744AD33B882A805A63DD86E5A60"
+      }
+    ]
+  },
+  {
+    "event_id": 3,
+    "event_name": "漫才歐噴麥",
+    "source_site": "kktix",
+    "ticket_sale_time": null,
+    "event_time": "2026-08-28 19:30:00",
+    "event_url": "https://yourunproduction.kktix.cc/events/ogerrh",
+    "scraped_at": "2026-09-13 18:19:56",
+    "venue_name": "活動地點請詳見活動頁",
+    "venue_address": "活動地點請詳見活動頁",
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "漫才歐噴麥",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "漫才、喜劇",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 4,
+    "event_name": "2026 N.Flying LIVE‘&CON5：into REM’IN KAOHSIUNG",
+    "source_site": "kham",
+    "ticket_sale_time": "2026-09-10 14:00:00",
+    "event_time": "2026-11-21 19:30:00",
+    "event_url": "https://kham.com.tw/application//UTK02/UTK0201_.aspx?PRODUCT_ID=P1F24HRG",
+    "scraped_at": "2026-09-13 18:19:57",
+    "venue_name": "高雄流行音樂中心 海音館",
+    "venue_address": "高雄市鹽埕區真愛路1號",
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "N.Flying",
+        "wiki_intro": "N.Flying（韓語：엔플라잉）是韓國FNC娛樂旗下的男子流行搖滾樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/N.Flying",
+        "artist_genres_summary": "流行搖滾、K-pop",
+        "recent_news_title": "N.Flying「役畢全員體」回歸！10週年重返台北福利狂撒",
+        "recent_news_url": "https://ent.ltn.com.tw/news/breakingnews/5268169"
+      }
+    ]
+  },
+  {
+    "event_id": 5,
+    "event_name": "【2/27場次】BIGBANG 2026-2027 WORLD TOUR〈 XX：COSMOS 〉IN KAOHSIUNG",
+    "source_site": "kham",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://kham.com.tw/application//UTK02/UTK0201_.aspx?PRODUCT_ID=P1EMCIC6",
+    "scraped_at": "2026-09-13 18:20:04",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "BIGBANG",
+        "wiki_intro": "BIGBANG是YG娛樂旗下的韓國男子流行音樂團體。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/BIGBANG",
+        "artist_genres_summary": "K-pop、嘻哈",
+        "recent_news_title": "快訊／BIGBANG大巨蛋完整票價公開！8月17日開搶",
+        "recent_news_url": "https://news.videoland.com.tw/article/3501bc48-f180-4610-8b2b-6237c1a518fe.html"
+      }
+    ]
+  },
+  {
+    "event_id": 6,
+    "event_name": "【2026 迷走大學 實體課程】",
+    "source_site": "kktix",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-12 19:30:00",
+    "event_url": "https://ridgestudio.kktix.cc/events/hololivedjnight",
+    "scraped_at": "2026-09-13 18:20:11",
+    "venue_name": "Legacy TERA",
+    "venue_address": "臺北市南港區東明里市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": "展演空間",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "迷走大學",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "Podcast、課程講座",
+        "recent_news_title": "迷走大學：【這個不能講：謬誤篇】實體課程",
+        "recent_news_url": "https://comedyclub.kktix.cc/events/meisouniv2024s2"
+      }
+    ]
+  },
+  {
+    "event_id": 7,
+    "event_name": "【2/28場次】BIGBANG 2026-2027 WORLD TOUR〈 XX：COSMOS 〉IN KAOHSIUNG",
+    "source_site": "kham",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://kham.com.tw/application//UTK02/UTK0201_.aspx?PRODUCT_ID=P1EVUYWG",
+    "scraped_at": "2026-09-13 18:20:10",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "BIGBANG",
+        "wiki_intro": "BIGBANG是YG娛樂旗下的韓國男子流行音樂團體。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/BIGBANG",
+        "artist_genres_summary": "K-pop、嘻哈",
+        "recent_news_title": "快訊／BIGBANG大巨蛋完整票價公開！8月17日開搶",
+        "recent_news_url": "https://news.videoland.com.tw/article/3501bc48-f180-4610-8b2b-6237c1a518fe.html"
+      }
+    ]
+  },
+  {
+    "event_id": 8,
+    "event_name": "【單買門票】Shizuka Kudo 2026 \"Dynamic\" CONCERT in TAIPEI",
+    "source_site": "kham",
+    "ticket_sale_time": "2026-06-24 12:00:00",
+    "event_time": "2026-10-24 00:00:00",
+    "event_url": "https://kham.com.tw/application//UTK02/UTK0201_.aspx?PRODUCT_ID=P1BU3K7Z",
+    "scraped_at": "2026-09-13 18:20:14",
+    "venue_name": "台北國際會議中心 TICC",
+    "venue_address": "台北市信義區信義路五段1號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 4600
+      }
+    ],
+    "artists": [
+      {
+        "name": "Shizuka Kudo",
+        "wiki_intro": "工藤靜香（1970年4月14日—），日本女歌手、演員、畫家、珠寶設計師。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%B7%A5%E8%97%A4%E9%9D%9C%E9%A6%99",
+        "artist_genres_summary": "J-pop",
+        "recent_news_title": "木村嫂回來了！ 工藤靜香10月台北開唱",
+        "recent_news_url": "https://www.rti.org.tw/news?uid=3&pid=215300"
+      }
+    ]
+  },
+  {
+    "event_id": 9,
+    "event_name": "鑽石舞台之夜",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BBA7AI",
+    "scraped_at": "2026-09-13 18:20:16",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "鑽石舞台之夜",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "華語經典",
+        "recent_news_title": "陳盈潔等不到今年中秋！胡瓜集合台語唱將《鑽石舞台》追憶〈海海人生〉",
+        "recent_news_url": "https://news.videoland.com.tw/article/9878135e-1508-46b0-afb4-486ae394632e.html"
+      }
+    ]
+  },
+  {
+    "event_id": 10,
+    "event_name": "【雙日票】WATERBOMB KAOHSIUNG 水炸彈音樂節",
+    "source_site": "kktix",
+    "ticket_sale_time": null,
+    "event_time": "2026-08-01 11:00:00",
+    "event_url": "https://fe5wer.kktix.cc/events/e279f1fb",
+    "scraped_at": "2026-09-13 18:20:18",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "WATERBOMB",
+        "wiki_intro": "韓國知名的夏日戶外水上音樂節品牌。",
+        "wiki_url": null,
+        "artist_genres_summary": "音樂節、K-pop、EDM",
+        "recent_news_title": "WATERBOMB／水炸彈首攻高雄！謝金燕辣秀逆天長腿全身噴濕烙狠話",
+        "recent_news_url": "https://www.thehubnews.net/archives/664648"
+      }
+    ]
+  },
+  {
+    "event_id": 11,
+    "event_name": "《菜冠雙Talk》2026年",
+    "source_site": "kktix",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-14 10:00:00",
+    "event_url": "https://uimec.kktix.cc/events/sjujr02",
+    "scraped_at": "2026-09-13 18:20:22",
+    "venue_name": "松山文創園區",
+    "venue_address": "台北市信義區光復南路133號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "菜冠雙Talk",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "喜劇、Podcast",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 12,
+    "event_name": "鑽石舞台之夜",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BCQHJX",
+    "scraped_at": "2026-09-13 18:20:24",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "鑽石舞台之夜",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "華語經典",
+        "recent_news_title": "陳盈潔等不到今年中秋！胡瓜集合台語唱將《鑽石舞台》追憶〈海海人生〉",
+        "recent_news_url": "https://news.videoland.com.tw/article/9878135e-1508-46b0-afb4-486ae394632e.html"
+      }
+    ]
+  },
+  {
+    "event_id": 13,
+    "event_name": "北部綜藝能工作室：週四即戰力",
+    "source_site": "kktix",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-15 10:00:00",
+    "event_url": "https://uimec.kktix.cc/events/tdsrg02",
+    "scraped_at": "2026-09-13 18:20:25",
+    "venue_name": "松山文創園區",
+    "venue_address": "台北市信義區光復南路133號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "北部綜藝能工作室",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "喜劇、漫才",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 14,
+    "event_name": "1500 SOUND ACADEMY 聲量音創學院 家伶 歌唱診療室",
+    "source_site": "kktix",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-07 12:00:00",
+    "event_url": "https://vagabondfest.kktix.cc/events/2026-vagabond-festival",
+    "scraped_at": "2026-09-13 18:20:29",
+    "venue_name": null,
+    "venue_address": "台南市安平區金城里洲安三街",
+    "venue_city": "台南市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "1500 SOUND ACADEMY 聲量音創學院",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "音樂、教學講座",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 15,
+    "event_name": "永遠的巨星 謝雷 2026演唱會",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1A9C2II",
+    "scraped_at": "2026-09-13 18:20:33",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "謝雷",
+        "wiki_intro": "謝雷（1940年2月2日—），本名謝茂海，台灣男歌手。1964年參加警察廣播電台舉辦的「交通安全歌曲演唱比賽」獲得亞軍而踏入歌壇。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E8%AC%9D%E9%9B%B7",
+        "artist_genres_summary": "台語流行、國語經典",
+        "recent_news_title": "謝雷心肌梗塞3次險死！回憶陳盈潔為這件事生氣意外扯出天后江蕙",
+        "recent_news_url": "https://www.setn.com/news/1905408"
+      }
+    ]
+  },
+  {
+    "event_id": 16,
+    "event_name": "Novelbright 限量VIP Upgrade 升級加購",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": "2026-05-08 12:00:00",
+    "event_time": "2026-10-24 18:00:00",
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19XNXK1",
+    "scraped_at": "2026-09-13 18:20:42",
+    "venue_name": "新北市工商展覽中心",
+    "venue_address": "新北市五股區五權路1號",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Novelbright",
+        "wiki_intro": "Novelbright（日語：ノーベルブライト）是日本五人男子搖滾樂團，於2013年結成。以主唱竹中雄大壓倒性的歌唱力與清澈高音為特色。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Novelbright",
+        "artist_genres_summary": "J-Rock、流行搖滾",
+        "recent_news_title": "Novelbright巡迴最終場10月台北開唱，主唱韓國走紅自爆被請客！",
+        "recent_news_url": "https://www.iwant-radio.com/showinformation.php?sisn=60742"
+      }
+    ]
+  },
+  {
+    "event_id": 17,
+    "event_name": "Novelbright ASIA TOUR 2026 ~PYRAMID~ IN TAIPEI",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": "2026-05-08 12:00:00",
+    "event_time": "2026-10-24 18:00:00",
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19QK265",
+    "scraped_at": "2026-09-13 18:20:51",
+    "venue_name": "新北市工商展覽中心",
+    "venue_address": "新北市五股區五權路1號",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Novelbright",
+        "wiki_intro": "Novelbright（日語：ノーベルブライト）是日本五人男子搖滾樂團，於2013年結成。以主唱竹中雄大壓倒性的歌唱力與清澈高音為特色。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Novelbright",
+        "artist_genres_summary": "J-Rock、流行搖滾",
+        "recent_news_title": "Novelbright巡迴最終場10月台北開唱，主唱韓國走紅自爆被請客！",
+        "recent_news_url": "https://www.iwant-radio.com/showinformation.php?sisn=60742"
+      }
+    ]
+  },
+  {
+    "event_id": 18,
+    "event_name": "JUST YOU & WIN 1ST SOLO FAN MEETING IN TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-09-05 14:00:00",
+    "event_time": "2026-11-01 18:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/993e73c01ab8d4c4380cc62bf1f203fe",
+    "scraped_at": "2026-09-13 18:20:53",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "宏匯廣場 8F 展演空間",
+    "tickets": [
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 8500
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 8000
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 7000
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 6500
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 4500
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 4000
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 3500
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 2500
+      },
+      {
+        "ticket_type": "粉絲見面會票價",
+        "price": 1500
+      }
+    ],
+    "artists": [
+      {
+        "name": "WIN",
+        "wiki_intro": "梅塔文·歐帕西安卡瓊（泰語：เมธวิน โอภาสเอี่ยมขจร，小名Win），泰國男演員、歌手及模特兒。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%A2%85%E5%A1%94%E6%96%87%C2%B7%E6%AD%90%E5%B8%95%E8%A5%BF%E5%AE%89%E5%8D%A1%E7%93%8A",
+        "artist_genres_summary": "泰國流行、演員粉絲見面會",
+        "recent_news_title": "JUST YOU & WIN 1ST SOLO FAN MEETING IN TAIPEI",
+        "recent_news_url": "https://ticketplus.com.tw/activity/993e73c01ab8d4c4380cc62bf1f203fe"
+      }
+    ]
+  },
+  {
+    "event_id": 19,
+    "event_name": "《大學城經典演唱會》～青春不散場・歌聲再飛揚",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": "2026-07-24 12:00:00",
+    "event_time": "2026-10-25 18:30:00",
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CHP23G",
+    "scraped_at": "2026-09-13 18:20:59",
+    "venue_name": "Legacy TERA",
+    "venue_address": "臺北市南港區東明里市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": "（北流對面）",
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 3000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2500
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 1500
+      }
+    ],
+    "artists": [
+      {
+        "name": "大學城經典演唱會群星",
+        "wiki_intro": "大學城全國大專創作歌謠比賽是台灣1980年代的重要音樂賽事。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%AD%B8%E5%9F%8E%E5%85%A8%E5%9C%8B%E5%A4%A7%E5%B0%88%E5%89%B5%E4%BD%9C%E6%AD%8C%E8%AC%A0%E6%AF%94%E8%B3%BD",
+        "artist_genres_summary": "校園民歌、華語經典",
+        "recent_news_title": "《大學城經典演唱會》～青春不散場・歌聲再飛揚",
+        "recent_news_url": "https://www.legacy.com.tw/article/page/great/3229"
+      }
+    ]
+  },
+  {
+    "event_id": 20,
+    "event_name": "【工作帶_shuffle kid】溫室雜草《衝突的意義》專輯試聽場",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/7faca5c3196e13e9ec3773005e7c09c7",
+    "scraped_at": "2026-09-13 18:21:01",
+    "venue_name": "玉成戲院錄音室",
+    "venue_address": "臺北市南港區玉成里玉成街25巷2號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "溫室雜草",
+        "wiki_intro": "溫室雜草（Easy Weeds）是台灣獨立搖滾樂團，以獨特的吉他搖滾與厭世呢喃風格受到喜愛。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立搖滾",
+        "recent_news_title": "自嘲吃時代紅利！溫室雜草撕開現實殘酷自揭「妥協內幕」 認了是",
+        "recent_news_url": "https://www.mirrordaily.news/story/80349"
+      }
+    ]
+  },
+  {
+    "event_id": 21,
+    "event_name": "2026 FNC BAND KINGDOM IN TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-29 11:00:00",
+    "event_time": "2026-11-07 14:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/b61bb16ce02e0f41548cd0c0e9ac79f9",
+    "scraped_at": "2026-09-13 18:21:09",
+    "venue_name": "國立體育大學綜合體育館",
+    "venue_address": "桃園市龜山區文化一路250號",
+    "venue_city": "桃園市",
+    "venue_description": "林口體育館",
+    "tickets": [
+      {
+        "ticket_type": "一般席",
+        "price": 6580
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 5880
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 4880
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 3880
+      },
+      {
+        "ticket_type": "身障席",
+        "price": 2940
+      }
+    ],
+    "artists": [
+      {
+        "name": "FNC BAND KINGDOM",
+        "wiki_intro": "FNC BAND KINGDOM 是由韓國 FNC 娛樂旗下樂團共同參與的家族演唱會。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/FNC%E5%A8%9B%E6%A8%82",
+        "artist_genres_summary": "K-pop、流行搖滾",
+        "recent_news_title": "2026 FNC BAND KINGDOM IN TAIPEI｜門票價錢、座位圖、全面開賣攻略",
+        "recent_news_url": "https://www.tickettw.com/concert-ticket/1406"
+      }
+    ]
+  },
+  {
+    "event_id": 22,
+    "event_name": "「2026年國際沈文程日-小琉球情歌演唱會」",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P0WAULDW",
+    "scraped_at": "2026-09-13 18:21:09",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 3600
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 3200
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2400
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 1600
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 1200
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 800
+      }
+    ],
+    "artists": [
+      {
+        "name": "沈文程",
+        "wiki_intro": "沈文程（1955年6月6日—），臺灣知名男歌手、電視節目主持人，曾獲金曲獎最佳方言男歌手獎。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%B2%88%E6%96%87%E7%A8%8B",
+        "artist_genres_summary": "台語流行音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 23,
+    "event_name": "我們搖滾——無妄合作社十週年演唱會",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-25 19:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/27556b3a4728bc77d96892108a15ab73",
+    "scraped_at": "2026-09-13 18:21:16",
+    "venue_name": "Legacy Taichung",
+    "venue_address": "臺中市西屯區福和里安和路117號",
+    "venue_city": "台中市",
+    "venue_description": "台中場",
+    "tickets": [
+      {
+        "ticket_type": "單人預售",
+        "price": 1500
+      },
+      {
+        "ticket_type": "雙人預售",
+        "price": 2800
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 1800
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 750
+      }
+    ],
+    "artists": [
+      {
+        "name": "無妄合作社",
+        "wiki_intro": "無妄合作社（No-nonsense Collective）是來自台灣的獨立搖滾樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E7%84%A1%E5%A6%84%E5%90%88%E4%BD%9C%E7%A4%BE",
+        "artist_genres_summary": "獨立搖滾、龐克",
+        "recent_news_title": "我們搖滾——無妄合作社十週年演唱會",
+        "recent_news_url": "https://ticketplus.com.tw/activity/27556b3a4728bc77d96892108a15ab73"
+      }
+    ]
+  },
+  {
+    "event_id": 24,
+    "event_name": "Jason Mraz ASIA TOUR 2026 IN TAIPEI",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AT93WA",
+    "scraped_at": "2026-09-13 18:21:18",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Jason Mraz",
+        "wiki_intro": "傑森·瑪耶茲（Jason Thomas Mraz），美國創作歌手。2008年單曲《我是你的》（I'm Yours）為其最知名代表作。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%9D%B0%E6%A3%AE%C2%B7%E7%8E%9B%E8%80%B6%E5%85%B9",
+        "artist_genres_summary": "流行音樂、原聲吉他",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 25,
+    "event_name": "THE SPELLBOUNDxBOOM BOOM SATELLITES TAIPEI LIVE 2026",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-16 20:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/937f68df5d081249eabbb3b07ee2a03d",
+    "scraped_at": "2026-09-13 18:21:24",
+    "venue_name": "SUB LIVE",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "THE SPELLBOUND",
+        "wiki_intro": "由 BOOM BOOM SATELLITES 的中野雅之與 THE NOVEMBERS 的小林祐介組成的日本樂團。",
+        "wiki_url": "https://ja.wikipedia.org/wiki/THE_SPELLBOUND",
+        "artist_genres_summary": "電子搖滾、J-Rock",
+        "recent_news_title": "THE SPELLBOUNDxBOOM BOOM SATELLITES TAIPEI LIVE 2026",
+        "recent_news_url": "https://yanchupiaowu.com/livehouse/duration-3?cate_id=1&sub_cate_id=56&page=6"
+      }
+    ]
+  },
+  {
+    "event_id": 26,
+    "event_name": "2026和風 頌 風華演唱會",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-14 14:00:00",
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DQZ6W2",
+    "scraped_at": "2026-09-13 18:21:27",
+    "venue_name": "大東文化藝術中心演藝廳",
+    "venue_address": null,
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 1000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 500
+      }
+    ],
+    "artists": [
+      {
+        "name": "高雄市音樂工會夢幻大樂團",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "合唱團",
+        "recent_news_title": "2026和風頌風華演唱會 - 年代售票",
+        "recent_news_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DQZ6W2"
+      }
+    ]
+  },
+  {
+    "event_id": 27,
+    "event_name": "2026 Ozone 4週年 FANCON：Self!shhh",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-07-31 12:00:00",
+    "event_time": "2026-09-13 16:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0415261",
+    "scraped_at": "2026-09-13 18:21:28",
+    "venue_name": "WESTAR",
+    "venue_address": "臺北市萬華區西門里漢中街116號8樓",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "三場套票",
+        "price": 9900
+      },
+      {
+        "ticket_type": "單場票",
+        "price": 3500
+      },
+      {
+        "ticket_type": "愛心席",
+        "price": 1750
+      }
+    ],
+    "artists": [
+      {
+        "name": "Ozone",
+        "wiki_intro": "Ozone 是台灣索尼音樂旗下的六人男子音樂團體，由選秀節目《原子少年》出道。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Ozone",
+        "artist_genres_summary": "C-pop、偶像團體",
+        "recent_news_title": "2026 Ozone 4週年FANCON：Self!shhh - iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv0415261"
+      }
+    ]
+  },
+  {
+    "event_id": 28,
+    "event_name": "2026 INFINITE FANMEETING [INFINITE RALLY V] in TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-15 13:00:00",
+    "event_time": "2026-09-19 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/af39103d211724c82069c4ab5e40e95c",
+    "scraped_at": "2026-09-13 18:21:32",
+    "venue_name": "國立體育大學綜合體育館",
+    "venue_address": "桃園市龜山區文化一路250號",
+    "venue_city": "桃園市",
+    "venue_description": "林口體育館",
+    "tickets": [
+      {
+        "ticket_type": "一般席",
+        "price": 6100
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 5600
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 4600
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 3800
+      },
+      {
+        "ticket_type": "愛心席",
+        "price": 2800
+      }
+    ],
+    "artists": [
+      {
+        "name": "INFINITE",
+        "wiki_intro": "INFINITE（韓語：인피니트）是韓國的男子音樂團體，以高同步率的群舞（刀群舞）聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/INFINITE",
+        "artist_genres_summary": "K-pop",
+        "recent_news_title": "2026 INFINITE FANMEETING [INFINITE RALLY V] in TAIPEI - 遠大售票",
+        "recent_news_url": "https://ticketplus.com.tw/activity/af39103d211724c82069c4ab5e40e95c"
+      }
+    ]
+  },
+  {
+    "event_id": 29,
+    "event_name": "OBSESS《今晚唱新歌》Live Tour 台中場",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-08-05 12:00:00",
+    "event_time": "2026-09-13 19:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04162ea",
+    "scraped_at": "2026-09-13 18:21:34",
+    "venue_name": "The Pillars 柱",
+    "venue_address": null,
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 800
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 1000
+      },
+      {
+        "ticket_type": "愛心票",
+        "price": 400
+      }
+    ],
+    "artists": [
+      {
+        "name": "OBSESS",
+        "wiki_intro": "台灣金屬核、後硬核獨立樂團。",
+        "wiki_url": null,
+        "artist_genres_summary": "金屬核、獨立搖滾",
+        "recent_news_title": "OBSESS《今晚唱新歌》Live Tour 台中場 - iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv04162ea"
+      }
+    ]
+  },
+  {
+    "event_id": 30,
+    "event_name": "【翁倩玉 陽光般的60週年演唱會-時間之歌】",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": "2026-06-04 18:00:00",
+    "event_time": "2026-11-28 15:00:00",
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19E5BI0",
+    "scraped_at": "2026-09-13 18:21:36",
+    "venue_name": "台中中興大學惠蓀堂",
+    "venue_address": "台中市南區興大路145號",
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 5600
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 4800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 4200
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 3600
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 3000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2400
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 1800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 1200
+      }
+    ],
+    "artists": [
+      {
+        "name": "翁倩玉",
+        "wiki_intro": "翁倩玉（1950年1月24日—），台日雙棲知名歌手、女演員及木版畫家。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E7%BF%81%E5%80%A9%E7%8E%89",
+        "artist_genres_summary": "流行音樂",
+        "recent_news_title": "翁倩玉演唱会新增台中场“会与以往不同” - 大纪元",
+        "recent_news_url": "https://www.epochtimes.com/gb/26/7/14/n14809355.htm"
+      }
+    ]
+  },
+  {
+    "event_id": 31,
+    "event_name": "2026 WHIB FAN CONCERT <BLUE HOUR> IN TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-29 12:00:00",
+    "event_time": "2026-10-31 13:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/b4a291097d613c267c068024b59dfb97",
+    "scraped_at": "2026-09-13 18:21:40",
+    "venue_name": "CLAPPER STUDIO",
+    "venue_address": "台北市中正區市民大道三段2號5樓",
+    "venue_city": "台北市",
+    "venue_description": "三創生活園區5樓展演空間",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "WHIB",
+        "wiki_intro": "WHIB是韓國C-JeS娛樂旗下的男子音樂團體。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/WHIB",
+        "artist_genres_summary": "K-pop",
+        "recent_news_title": "WHIB 2026 FAN CONCERT [BLUE HOUR] IN TAIPEI",
+        "recent_news_url": "https://www.youtube.com/watch?v=n2aDLy_ZzRw"
+      }
+    ]
+  },
+  {
+    "event_id": 32,
+    "event_name": "Legacy Presents【2026鐵漢柔情】： 人生如電—林生祥30週...",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-06-23 12:00:00",
+    "event_time": "2026-09-13 16:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04101ec",
+    "scraped_at": "2026-09-13 18:21:41",
+    "venue_name": "Legacy Taichung",
+    "venue_address": "台中市西屯區安和路117號",
+    "venue_city": "台中市",
+    "venue_description": "音樂展演空間",
+    "tickets": [
+      {
+        "ticket_type": "A區預售票",
+        "price": 1800
+      },
+      {
+        "ticket_type": "B區預售票",
+        "price": 1500
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 2000
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 750
+      }
+    ],
+    "artists": [
+      {
+        "name": "林生祥",
+        "wiki_intro": "林生祥（1971年11月25日—），台灣高雄美濃客家人，為獨立音樂創作人，其音樂創作多關注農工、環保與社會議題。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E7%94%9F%E7%A5%A5",
+        "artist_genres_summary": "獨立音樂、客語民謠",
+        "recent_news_title": "Legacy Presents【2026鐵漢柔情】： 人生如電—林生祥30週年演唱會",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv04101ec"
+      }
+    ]
+  },
+  {
+    "event_id": 33,
+    "event_name": "2026林淑容【您的經典．我的歌】世界巡迴演唱會台中場",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": "2026-12-05 19:00:00",
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DL4DZ2",
+    "scraped_at": "2026-09-13 18:21:45",
+    "venue_name": "中興大學惠蓀堂",
+    "venue_address": "台中市南區興大路145號",
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 6800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 5800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 4800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 3800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 1800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 1000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 800
+      }
+    ],
+    "artists": [
+      {
+        "name": "林淑容",
+        "wiki_intro": "林淑容（1960年8月9日—），台灣女歌手，以〈昨夜星辰〉、〈無言的結局〉等經典金曲深植人心。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E6%B7%91%E5%AE%B9",
+        "artist_genres_summary": "流行音樂、華語經典",
+        "recent_news_title": "出道50年！林淑容驚喜宣布「台中初體驗」 攜手孔鏘經典重現",
+        "recent_news_url": "https://www.playmusic.tw/column_info.php?id=28453&type=news"
+      }
+    ]
+  },
+  {
+    "event_id": 34,
+    "event_name": "PERSONA LIVE TOUR 2026 - Resonance - 台北公演",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-10 17:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/dfbbddff9cdd97f305c00ad7fbbe9875",
+    "scraped_at": "2026-09-13 18:21:48",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "宏匯廣場 8F",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "PERSONA LIVE TOUR",
+        "wiki_intro": "日本知名角色扮演遊戲《女神異聞錄》（PERSONA）系列衍生之官方音樂巡迴演唱會。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84%E7%B3%BB%E5%88%97",
+        "artist_genres_summary": "ACG音樂、遊戲配樂",
+        "recent_news_title": "「PERSONA LIVE TOUR 2026 -Resonance-」台北公演售票資訊公開",
+        "recent_news_url": "https://gnn.gamer.com.tw/detail.php?sn=309840"
+      }
+    ]
+  },
+  {
+    "event_id": 35,
+    "event_name": "小麻雀樂團《歡迎來到小麻雀樂園》五週年專場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-13 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0407244",
+    "scraped_at": "2026-09-13 18:21:49",
+    "venue_name": "LIVE WAREHOUSE 小庫",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區大義C10倉庫",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 500
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 700
+      }
+    ],
+    "artists": [
+      {
+        "name": "小麻雀樂團",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": "小麻雀樂團《歡迎來到小麻雀樂園》五週年專場",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv0407244"
+      }
+    ]
+  },
+  {
+    "event_id": 36,
+    "event_name": "2026蔡義德【聲聲不息】演唱會",
+    "source_site": "ticket.com.tw",
+    "ticket_sale_time": null,
+    "event_time": "2026-12-26 18:00:00",
+    "event_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ATPSBQ",
+    "scraped_at": "2026-09-13 18:21:54",
+    "venue_name": "中興大學惠蓀堂",
+    "venue_address": "台中市南區興大路145號",
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 12000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 10000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 6000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 5000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 3800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 3000
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2800
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2200
+      }
+    ],
+    "artists": [
+      {
+        "name": "蔡義德",
+        "wiki_intro": "蔡義德（1965年10月1日—），台灣雲林縣四湖鄉人，台語流行音樂男歌手，素有「台灣番鴨王」之稱。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E8%94%A1%E7%BE%A9%E5%BE%B7",
+        "artist_genres_summary": "台語流行",
+        "recent_news_title": "2026蔡義德【聲聲不息】演唱會 - 年代售票",
+        "recent_news_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ATPSBQ"
+      }
+    ]
+  },
+  {
+    "event_id": 37,
+    "event_name": "Tiffany Young：Edge of Calm Tour In Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-22 12:00:00",
+    "event_time": "2026-10-09 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/0dcd13114224adf9ff51382e8b535894",
+    "scraped_at": "2026-09-13 18:21:56",
+    "venue_name": "國立臺灣大學綜合體育館",
+    "venue_address": "台北市大安區羅斯福路四段1號",
+    "venue_city": "台北市",
+    "venue_description": "台大體育館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Tiffany Young",
+        "wiki_intro": "黃美永（英語：Stephanie Young Hwang，韓語：황미영，1989年8月1日—），藝名蒂芬妮（Tiffany），為韓裔美籍的女歌手及主持人，是少女時代成員之一。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Tiffany_(%E5%B0%91%E5%A5%B3%E6%99%82%E4%BB%A3)",
+        "artist_genres_summary": "K-pop、流行音樂",
+        "recent_news_title": "[情報] Tiffany Young Edge of Calm台北10/9-10",
+        "recent_news_url": "https://www.ptt.cc/bbs/SNSD/M.1784289344.A.5BD.html"
+      }
+    ]
+  },
+  {
+    "event_id": 38,
+    "event_name": "2026 摔角兄弟會-高雄場 Wrestling Brotherhood",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-18 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0415182",
+    "scraped_at": "2026-09-13 18:21:57",
+    "venue_name": "LIVE WAREHOUSE 大庫",
+    "venue_address": "高雄市鹽埕區大義街2之5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區大義C10倉庫",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 1200
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 1600
+      }
+    ],
+    "artists": [
+      {
+        "name": "摔角兄弟會 (血肉果汁機等)",
+        "wiki_intro": "由血肉果汁機、Beyond Cure、SACRED PURGE共演的巡迴活動。",
+        "wiki_url": null,
+        "artist_genres_summary": "重金屬、硬核",
+        "recent_news_title": "2026 摔角兄弟會-高雄場Wrestling Brotherhood - iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv0415182"
+      }
+    ]
+  },
+  {
+    "event_id": 39,
+    "event_name": "凹！都得獎了～Suming 舒米恩金曲慶功演唱會",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-08-18 12:00:00",
+    "event_time": "2026-09-18 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041764e",
+    "scraped_at": "2026-09-13 18:22:03",
+    "venue_name": "SUB",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": "臺北流行音樂中心南基地戶外廣場",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 1200
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 1500
+      },
+      {
+        "ticket_type": "愛心票",
+        "price": 600
+      }
+    ],
+    "artists": [
+      {
+        "name": "舒米恩",
+        "wiki_intro": "舒米恩·魯碧（阿美語：Suming Rupi，1978年7月17日—），臺灣原住民阿美族歌手與演員，多次獲得金曲獎與金馬獎肯定。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E8%88%92%E7%B1%B3%E6%81%A9",
+        "artist_genres_summary": "原住民音樂、獨立音樂",
+        "recent_news_title": "凹！都得獎了～Suming 舒米恩金曲慶功演唱會",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv041764e"
+      }
+    ]
+  },
+  {
+    "event_id": 40,
+    "event_name": "風間俊介 KAZAMA SHUNSUKE meets TAIPEI -初・海外出差篇-",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-22 12:00:00",
+    "event_time": "2026-11-14 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/05749091d05a5686994c5046f27137e6",
+    "scraped_at": "2026-09-13 18:22:03",
+    "venue_name": "Clapper Studio",
+    "venue_address": "台北市中正區市民大道三段2號5F",
+    "venue_city": "台北市",
+    "venue_description": "三創生活園區",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "風間俊介",
+        "wiki_intro": "風間俊介（1983年6月17日—），日本男演員及藝人，前傑尼斯事務所旗下藝人。曾為《遊戲王》主角武藤遊戲配音。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E9%A2%A8%E9%96%93%E4%BF%8A%E4%BB%8B",
+        "artist_genres_summary": "演員粉絲見面會",
+        "recent_news_title": "風間俊介出道30年首攻海外見面會來台前先學中文「我愛你」",
+        "recent_news_url": "https://www.mirrormedia.mg/story/20260811-90ent-170216"
+      }
+    ]
+  },
+  {
+    "event_id": 41,
+    "event_name": "P!SCO-16-Thank Yo! Family Day !（台中場）",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-08-13 12:00:00",
+    "event_time": "2026-09-19 17:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04172f6",
+    "scraped_at": "2026-09-13 18:22:09",
+    "venue_name": "Legacy Taichung",
+    "venue_address": "台中市西屯區安和路117號",
+    "venue_city": "台中市",
+    "venue_description": "音樂展演空間",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 800
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 999
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 400
+      }
+    ],
+    "artists": [
+      {
+        "name": "P!SCO",
+        "wiki_intro": "P!SCO（2010年成立），是台灣一支充滿活力的獨立搖滾樂團，以其獨特的電子舞曲搖滾風格聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/P!SCO",
+        "artist_genres_summary": "獨立搖滾、電子舞曲",
+        "recent_news_title": "P!SCO-16-Thank Yo! Family Day !（台中場）",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv04172f6"
+      }
+    ]
+  },
+  {
+    "event_id": 42,
+    "event_name": "BIGBANG 2026-2027 WORLD TOUR < XX : COSMOS > IN TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-20 10:00:00",
+    "event_time": "2026-10-11 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/21d3c3504ff522a6732789a46f5796d7",
+    "scraped_at": "2026-09-13 18:22:12",
+    "venue_name": "臺北大巨蛋",
+    "venue_address": "台北市信義區忠孝東路四段515號",
+    "venue_city": "台北市",
+    "venue_description": "Taipei Dome",
+    "tickets": [
+      {
+        "ticket_type": "VIP 1",
+        "price": 11490
+      },
+      {
+        "ticket_type": "VIP 2",
+        "price": 11440
+      },
+      {
+        "ticket_type": "VIP 3",
+        "price": 10940
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 10420
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 10020
+      }
+    ],
+    "artists": [
+      {
+        "name": "BIGBANG",
+        "wiki_intro": "BIGBANG是YG娛樂旗下的韓國男子流行音樂團體。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/BIGBANG",
+        "artist_genres_summary": "K-pop、嘻哈",
+        "recent_news_title": "快訊／BIGBANG大巨蛋完整票價公開！8月17日開搶",
+        "recent_news_url": "https://news.videoland.com.tw/article/3501bc48-f180-4610-8b2b-6237c1a518fe.html"
+      }
+    ]
+  },
+  {
+    "event_id": 43,
+    "event_name": "乙水YEE WATER － MINUS：EP Release Concert",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-07-20 20:00:00",
+    "event_time": "2026-09-19 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04143e9",
+    "scraped_at": "2026-09-13 18:22:16",
+    "venue_name": "LIVE WAREHOUSE",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區大義C10倉庫",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 600
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 800
+      },
+      {
+        "ticket_type": "雙人套票",
+        "price": 1100
+      }
+    ],
+    "artists": [
+      {
+        "name": "乙水 YEE WATER",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": "乙水YEE WATER《MINUS》2026高雄｜票價、取票與入場",
+        "recent_news_url": "https://yololab.net/archives/yee-water-kaohsiung-2026-minus-ep-tickets-guide"
+      }
+    ]
+  },
+  {
+    "event_id": 44,
+    "event_name": "UVERworld LIVE TOUR 2026 in TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-15 11:00:00",
+    "event_time": "2026-11-21 19:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/641abfeafd8760018e1f02fadcf3d4c0",
+    "scraped_at": "2026-09-13 18:22:19",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "宏匯廣場 8F",
+    "tickets": [
+      {
+        "ticket_type": "1F搖滾區",
+        "price": 3200
+      },
+      {
+        "ticket_type": "1F搖滾區(後)",
+        "price": 2800
+      },
+      {
+        "ticket_type": "2F座區",
+        "price": 3200
+      },
+      {
+        "ticket_type": "2F站位",
+        "price": 2200
+      }
+    ],
+    "artists": [
+      {
+        "name": "UVERworld",
+        "wiki_intro": "UVERworld（日語：ウーバーワールド）是日本一支六人組成的搖滾樂團。以揉合了搖滾、電子、節奏藍調等多種風格聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/UVERworld",
+        "artist_genres_summary": "J-Rock、電子搖滾",
+        "recent_news_title": "UVERworld突襲宣布11月攻台！台北單獨公演曝光全場尖叫沸騰",
+        "recent_news_url": "https://star.ettoday.net/news/3218250"
+      }
+    ]
+  },
+  {
+    "event_id": 45,
+    "event_name": "河馬玖狂｜四團共演",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-07-31 12:00:00",
+    "event_time": "2026-09-19 15:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0410760",
+    "scraped_at": "2026-09-13 18:22:22",
+    "venue_name": "ThERE 音樂展演空間",
+    "venue_address": "桃園市桃園區復興路454號地下1樓",
+    "venue_city": "桃園市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "河馬玖狂四團 (Hbun河紋, Mazbar&Lalan, Monomania偏執狂, 臺玖巴樂隊)",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂、聯合展演",
+        "recent_news_title": "河馬玖狂2026 桃園演出：四團從賽場對手到首次同台",
+        "recent_news_url": "https://yololab.net/archives/hippo-four-bands-taoyuan-2026-concert-tickets-guide"
+      }
+    ]
+  },
+  {
+    "event_id": 46,
+    "event_name": "李東軒AUSTIN LEE《FOREVER 我們・不變》十週年演唱會",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/e8ba6fb7729f1ee91796c65d6b861b67",
+    "scraped_at": "2026-09-13 18:22:27",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "李東軒 Austin Lee",
+        "wiki_intro": "李東軒（1984年10月11日－），本名李建軒，台灣男歌手，父親為資深藝人康雷，母親為張鴻。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BB%BA%E8%BB%92",
+        "artist_genres_summary": "華語流行",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 47,
+    "event_name": "虎小島《背對光的時候》台北專場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04098fa",
+    "scraped_at": "2026-09-13 18:22:28",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "虎小島",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 48,
+    "event_name": "國語作業簿｜勁曲台中市",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0406988",
+    "scraped_at": "2026-09-13 18:22:34",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "國語作業簿 (DJ MR.GIN / 賴皮)",
+        "wiki_intro": "台灣知名以全中文流行、嘻哈金曲為主題的 DJ 派對品牌。",
+        "wiki_url": null,
+        "artist_genres_summary": "DJ派對、嘻哈",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 49,
+    "event_name": "Kaohsiung Park Music Festival",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-09 14:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/c534363deb6aec26e431aba4676ca20c",
+    "scraped_at": "2026-09-13 18:22:38",
+    "venue_name": "高雄展覽館",
+    "venue_address": "高雄市前鎮區鎮北里成功二路39號",
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Kaohsiung Park Music Festival 音樂節",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "音樂節",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 50,
+    "event_name": "9.20(日) Punk Strike Warm-Up Party #6",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-20 00:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0398843",
+    "scraped_at": "2026-09-13 18:22:41",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Punk Strike",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "龐克音樂祭",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 51,
+    "event_name": "音田雅則 One Man Tour 2026 “Hiraeth” in Taipei VIP PASS加購",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/e96255fb45cb9e0611d3f0d87443edd4",
+    "scraped_at": "2026-09-13 18:22:46",
+    "venue_name": "SUB LIVE",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "音田雅則 Masanori Ota",
+        "wiki_intro": "音田雅則，日本新生代創作男歌手，因在TikTok等社群平台上的翻唱與自創曲走紅。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 52,
+    "event_name": "存在証明NO FACE NO REaLiTY【金色黃昏曉】～雛菜Hina2026生...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041719d",
+    "scraped_at": "2026-09-13 18:22:49",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "存在証明NO FACE NO REaLiTY",
+        "wiki_intro": "活躍於台灣地下偶像圈的女團。",
+        "wiki_url": null,
+        "artist_genres_summary": "地下偶像",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 53,
+    "event_name": "音田雅則 One Man Tour 2026 “Hiraeth” in Taipei VIP PASS加購 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/da00f569c53db3161de3e89fe125a6c0",
+    "scraped_at": "2026-09-13 18:22:53",
+    "venue_name": "SUB LIVE",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "音田雅則 Masanori Ota",
+        "wiki_intro": "音田雅則，日本新生代創作男歌手，因在TikTok等社群平台上的翻唱與自創曲走紅。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 54,
+    "event_name": "【Legacy Presents 秋分：完美的平衡】南西肯恩、傻子與白痴",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041805d",
+    "scraped_at": "2026-09-13 18:22:58",
+    "venue_name": "Legacy",
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "南西肯恩、傻子與白痴",
+        "wiki_intro": "南西肯恩為台灣雙人創作組合；傻子與白痴為台灣新生代流行搖滾樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%82%BB%E5%AD%90%E8%88%87%E7%99%BD%E7%97%B4",
+        "artist_genres_summary": "獨立音樂、流行搖滾",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 55,
+    "event_name": "Chevon pre.Yoshinani 〜Nomadic Edition〜 in Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/1432a04903bc5a7e5301a524ef9153d1",
+    "scraped_at": "2026-09-13 18:23:01",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Chevon",
+        "wiki_intro": "來自日本的獨立樂團。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-Rock",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 56,
+    "event_name": "EmptyORio ALL THE BEAST 台北場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041598a",
+    "scraped_at": "2026-09-13 18:23:04",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "EmptyORio",
+        "wiki_intro": "由滅火器吉他手鄭宇辰(ORio)領軍的台灣龐克搖滾樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%BB%85%E7%81%AB%E5%99%A8%E6%A8%82%E5%9C%98",
+        "artist_genres_summary": "龐克搖滾",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 57,
+    "event_name": "2026 OK TAECYEON SPECIAL EVENT IN TAIPEI TodaY 特典會",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/9c037e47b58a0963794885ae3a3aa67c",
+    "scraped_at": "2026-09-13 18:23:09",
+    "venue_name": "Legacy TERA",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": "(原資料誤植為忠孝東路七段99號)",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "OK TAECYEON 玉澤演",
+        "wiki_intro": "玉澤演（韓語：옥택연，1988年12月27日—），韓國男子音樂團體 2PM 的成員，身兼歌手、演員與主持人。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E7%8E%89%E6%BE%A4%E6%BC%94",
+        "artist_genres_summary": "K-pop、韓國男演員",
+        "recent_news_title": "2PM玉澤演宣布來台！相隔1年會粉絲 見面會日期、地點一次看",
+        "recent_news_url": "https://www.ettoday.net/news/20260814/2555301.htm"
+      }
+    ]
+  },
+  {
+    "event_id": 58,
+    "event_name": "小大人二：慶功派對｜Quanzo + O.Dkizzya",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0411695",
+    "scraped_at": "2026-09-13 18:23:11",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Quanzo、O.Dkizzya",
+        "wiki_intro": "皆為台灣新生代饒舌歌手，曾參與知名嘻哈選秀節目。",
+        "wiki_url": null,
+        "artist_genres_summary": "嘻哈饒舌",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 59,
+    "event_name": "2026 OK TAECYEON FANMEETING IN TAIPEI TodaY",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/997ad769741638217f322a1d16744bbc",
+    "scraped_at": "2026-09-13 18:23:16",
+    "venue_name": "Legacy TERA",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": "(原資料誤植為忠孝東路七段99號)",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "OK TAECYEON 玉澤演",
+        "wiki_intro": "玉澤演（韓語：옥택연，1988年12月27日—），韓國男子音樂團體 2PM 的成員，身兼歌手、演員與主持人。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E7%8E%89%E6%BE%A4%E6%BC%94",
+        "artist_genres_summary": "K-pop、韓國男演員",
+        "recent_news_title": "2PM玉澤演宣布來台！相隔1年會粉絲 見面會日期、地點一次看",
+        "recent_news_url": "https://www.ettoday.net/news/20260814/2555301.htm"
+      }
+    ]
+  },
+  {
+    "event_id": 60,
+    "event_name": "移地訓練：EP 發行派對｜Peatle + SiNNER MOON",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0411575",
+    "scraped_at": "2026-09-13 18:23:17",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Peatle、SiNNER MOON",
+        "wiki_intro": "台灣新生代饒舌歌手與陷阱音樂製作人。",
+        "wiki_url": null,
+        "artist_genres_summary": "嘻哈、Trap",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 61,
+    "event_name": "2026 秋夜爵醒祭｜霧峰盛典",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-26 13:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041349a",
+    "scraped_at": "2026-09-13 18:23:24",
+    "venue_name": "霧峰立法院民主議政園區 民主草坪",
+    "venue_address": "台中市霧峰區中正路734號",
+    "venue_city": "台中市",
+    "venue_description": "戶外音樂節",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "秋夜爵醒祭",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "爵士音樂祭",
+        "recent_news_title": "【爵士之詩】2026爵醒祭COMING UP！！專訪策展音樂人",
+        "recent_news_url": "https://www.youtube.com/watch?v=gEnPwa6SZBA"
+      }
+    ]
+  },
+  {
+    "event_id": 62,
+    "event_name": "Amenra Live in Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-16 19:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/6b82ba3f50bf7250ed06bb4405cf7f4c",
+    "scraped_at": "2026-09-13 18:23:24",
+    "venue_name": "The Wall Live House",
+    "venue_address": "台北市文山區羅斯福路四段200號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Amenra",
+        "wiki_intro": "Amenra 是來自比利時的後金屬樂團，成立於1999年，以沉重、情緒強烈的音樂風格著稱。",
+        "wiki_url": "https://en.wikipedia.org/wiki/Amenra",
+        "artist_genres_summary": "後金屬、末日金屬",
+        "recent_news_title": "Amenra Live in Taipei｜演出資訊 - Artists.tw",
+        "recent_news_url": "https://www.artists.tw/gigs/20261016-taipei-amenra-live-in-taipei/"
+      }
+    ]
+  },
+  {
+    "event_id": 63,
+    "event_name": "9.26 (Sat.)「Prison」布魯飛斯與鐵人巡演-台中場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-26 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0418516",
+    "scraped_at": "2026-09-13 18:23:30",
+    "venue_name": "迴響音樂展演空間",
+    "venue_address": "台中市中區中山路108號",
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "布魯飛斯與鐵人",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立樂團",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 64,
+    "event_name": "PREP Live In Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-02 20:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/2d692e7f58903ba5c2432facab31e110",
+    "scraped_at": "2026-09-13 18:23:31",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "PREP",
+        "wiki_intro": "來自英國倫敦，由嘻哈音樂製作人、古典音樂家、浩室DJ和唱作人組成的四人樂團，融合R&B、Funk、Jazz。",
+        "wiki_url": "https://en.wikipedia.org/wiki/Prep_(band)",
+        "artist_genres_summary": "City Pop、R&B",
+        "recent_news_title": "新英倫浪漫- PREP Live in Taipei",
+        "recent_news_url": "https://www.klook.com/zh-TW/event-detail/101023557-2024-prep-live-in-taipei/"
+      }
+    ]
+  },
+  {
+    "event_id": 65,
+    "event_name": "From KL to TPE 都市女聲夜洋通話｜阿橘 Ahh G X JAYWANG...",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-07-01 12:00:00",
+    "event_time": "2026-09-26 19:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0411494",
+    "scraped_at": "2026-09-13 18:23:36",
+    "venue_name": "THE PILLARS (柱)",
+    "venue_address": "台中市北區篤行路13號3樓",
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 500
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 700
+      }
+    ],
+    "artists": [
+      {
+        "name": "阿橘 Ahh G X JAYWANG",
+        "wiki_intro": "阿橘 Ahh G 為台灣新生代獨立創作歌手，風格以Indie R&B、Neo Soul及City Pop為主。",
+        "wiki_url": null,
+        "artist_genres_summary": "Indie R&B、City Pop",
+        "recent_news_title": "From KL to TPE 都市女聲夜洋通話｜阿橘Ahh G X JAYWANG",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv0411494"
+      }
+    ]
+  },
+  {
+    "event_id": 66,
+    "event_name": "ASCA LIVE TOUR 2026 -Remedy- 台北公演",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-07-24 18:00:00",
+    "event_time": "2026-11-14 17:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/999a09ed2fe976ff4872705f746de36a",
+    "scraped_at": "2026-09-13 18:23:39",
+    "venue_name": "NUZONE",
+    "venue_address": "台北市大安區市民大道三段198號2樓",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "全場站席",
+        "price": 2300
+      }
+    ],
+    "artists": [
+      {
+        "name": "ASCA",
+        "wiki_intro": "ASCA（大倉明日香，1996年9月5日—），日本女性歌手，為多部知名動畫（如《刀劍神域》）演唱過主題曲。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/ASCA",
+        "artist_genres_summary": "J-pop、動漫音樂",
+        "recent_news_title": "ASCA演唱會2026台灣場11/14插旗NUZONE",
+        "recent_news_url": "https://www.4gamers.com.tw/news/detail/80371/asca-live-tour-2026-remedy-taipei"
+      }
+    ]
+  },
+  {
+    "event_id": 67,
+    "event_name": "Wah SUB！014 龐氏騙局2；BB彈。Shootup。頂加集會...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041925e",
+    "scraped_at": "2026-09-13 18:23:42",
+    "venue_name": "SUB LIVE",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "BB彈 / Shootup / 頂加集會",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "龐克、獨立搖滾",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 68,
+    "event_name": "TREASURE THE STAGE 2026 NEW WAV : LIVE IN KAOHSIUNG",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-07-19 12:00:00",
+    "event_time": "2026-09-26 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/e5baf60463fccb6391ae4dcb2e314978",
+    "scraped_at": "2026-09-13 18:23:46",
+    "venue_name": "高雄巨蛋",
+    "venue_address": "高雄市左營區博愛二路757號",
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "特區",
+        "price": 6375
+      },
+      {
+        "ticket_type": "座位區",
+        "price": 5380
+      },
+      {
+        "ticket_type": "座位區",
+        "price": 4980
+      },
+      {
+        "ticket_type": "座位區",
+        "price": 3980
+      },
+      {
+        "ticket_type": "座位區",
+        "price": 2980
+      },
+      {
+        "ticket_type": "座位區",
+        "price": 1980
+      }
+    ],
+    "artists": [
+      {
+        "name": "TREASURE",
+        "wiki_intro": "TREASURE（韓語：트레저），是韓國YG娛樂透過生存實境節目《YG寶石盒》推出的男子音樂組合。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/TREASURE",
+        "artist_genres_summary": "K-pop、嘻哈",
+        "recent_news_title": "TREASURE THE STAGE 2026 NEW WAV : LIVE IN KAOHSIUNG",
+        "recent_news_url": "https://eventgo.tw/event/99d4ce21-b55f-4c91-a373-62e4356c390a"
+      }
+    ]
+  },
+  {
+    "event_id": 69,
+    "event_name": "9.27(日)PUNK STRIKE ： NEXT GENERATION",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-27 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04186a4",
+    "scraped_at": "2026-09-13 18:23:49",
+    "venue_name": "迴響音樂展演空間",
+    "venue_address": "台中市中區中山路108號",
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "PUNK STRIKE",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "龐克音樂展演",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 70,
+    "event_name": "YUURI 2026 LIVE IN TAIPEI 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-07-13 13:00:00",
+    "event_time": "2026-10-09 17:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/133e449ef09df003e3031b684b9e220b",
+    "scraped_at": "2026-09-13 18:23:54",
+    "venue_name": "台北小巨蛋",
+    "venue_address": "台北市松山區南京東路四段2號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "YUURI 優里",
+        "wiki_intro": "優里（Yuuri，1994年3月23日—），日本知名創作男歌手，其熱門單曲〈Dry Flower〉在串流平台獲得廣大迴響。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%84%AA%E9%87%8C",
+        "artist_genres_summary": "J-pop、流行搖滾",
+        "recent_news_title": "優里（Yuuri）2026 台北小巨蛋演唱會票價、實名抽選時間總整理",
+        "recent_news_url": "https://memeon-music.com/2026/07/10/yuuri-17/"
+      }
+    ]
+  },
+  {
+    "event_id": 71,
+    "event_name": "From MO to TPE｜好耐冇見老友記｜Theseus忒修斯 + 青...",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-07-01 12:00:00",
+    "event_time": "2026-09-27 19:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041174f",
+    "scraped_at": "2026-09-13 18:23:55",
+    "venue_name": "Legacy Taichung",
+    "venue_address": "台中市西屯區安和路117號",
+    "venue_city": "台中市",
+    "venue_description": "音樂展演空間",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 500
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 700
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 250
+      }
+    ],
+    "artists": [
+      {
+        "name": "Theseus忒修斯 / 青原Fida",
+        "wiki_intro": "Theseus忒修斯為台灣少見的雙男聲演唱組合，橫跨民謠與北歐搖滾；青原Fida為澳門另類搖滾與流行龐克樂團。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立民謠、另類搖滾",
+        "recent_news_title": "好耐冇見老友記｜Theseus忒修斯+ 青原Fida - Legacy",
+        "recent_news_url": "https://www.legacy.com.tw/article/page/taichung/3220"
+      }
+    ]
+  },
+  {
+    "event_id": 72,
+    "event_name": "YUURI 2026 LIVE IN TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-05 12:00:00",
+    "event_time": "2026-10-10 17:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/7acedf4b414903ac17104384cb416849",
+    "scraped_at": "2026-09-13 18:24:00",
+    "venue_name": "台北小巨蛋",
+    "venue_address": "台北市松山區南京東路四段2號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "一般席",
+        "price": 5280
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 4880
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 4280
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 3280
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 2280
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 800
+      }
+    ],
+    "artists": [
+      {
+        "name": "YUURI 優里",
+        "wiki_intro": "優里（Yuuri，1994年3月23日—），日本知名創作男歌手，其熱門單曲〈Dry Flower〉在串流平台獲得廣大迴響。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%84%AA%E9%87%8C",
+        "artist_genres_summary": "J-pop、流行搖滾",
+        "recent_news_title": "優里（Yuuri）2026 台北小巨蛋演唱會票價、實名抽選時間總整理",
+        "recent_news_url": "https://memeon-music.com/2026/07/10/yuuri-17/"
+      }
+    ]
+  },
+  {
+    "event_id": 73,
+    "event_name": "最初の信号 〜天使シグナルDEBUT LIVE〜",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-27 14:20:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04161ba",
+    "scraped_at": "2026-09-13 18:24:02",
+    "venue_name": "LIVE WAREHOUSE 小庫",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區大義C10倉庫",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "天使シグナル",
+        "wiki_intro": "台灣南部的日系地下偶像團體。",
+        "wiki_url": null,
+        "artist_genres_summary": "地下偶像",
+        "recent_news_title": "天使シグナルDEBUT LIVE - TimeTree",
+        "recent_news_url": "https://timetreeapp.com/public_calendars/ore_idol/3006990258467461859"
+      }
+    ]
+  },
+  {
+    "event_id": 74,
+    "event_name": "音田雅則 One Man Tour 2026 “Hiraeth” in Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-07-03 12:00:00",
+    "event_time": "2026-11-22 18:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/4b47b5360d42451f65704664c40b1c72",
+    "scraped_at": "2026-09-13 18:24:06",
+    "venue_name": "SUB LIVE",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 1900
+      },
+      {
+        "ticket_type": "VIP PASS加購",
+        "price": 1300
+      },
+      {
+        "ticket_type": "愛心票",
+        "price": 950
+      }
+    ],
+    "artists": [
+      {
+        "name": "音田雅則 Masanori Ota",
+        "wiki_intro": "音田雅則，日本新生代創作男歌手，因在TikTok等社群平台上的翻唱與自創曲走紅。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": "音田雅則2026 台北SUB LIVE 開唱，巡演唯一海外場",
+        "recent_news_url": "https://www.niusnews.com/=P0f1ff2w0"
+      }
+    ]
+  },
+  {
+    "event_id": 75,
+    "event_name": "OBSESS《今晚唱新歌》Live Tour 台北場",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-08-05 12:00:00",
+    "event_time": "2026-09-28 17:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041634a",
+    "scraped_at": "2026-09-13 18:24:08",
+    "venue_name": "THE WALL 表演廳外L形走廊",
+    "venue_address": "台北市文山區羅斯福路四段200號B1",
+    "venue_city": "台北市",
+    "venue_description": "(原訂野地方 Wild Lab 延期更改場地)",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "OBSESS",
+        "wiki_intro": "台灣金屬核、後硬核獨立樂團。",
+        "wiki_url": null,
+        "artist_genres_summary": "金屬核、獨立搖滾",
+        "recent_news_title": "【場地異動及延期退票公告】OBSESS《今晚唱新歌》Live Tour 台北場",
+        "recent_news_url": "https://www.indievox.com/news/detail/1183"
+      }
+    ]
+  },
+  {
+    "event_id": 76,
+    "event_name": "音田雅則 One Man Tour 2026 “Hiraeth” in Taipei 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-07-03 12:00:00",
+    "event_time": "2026-11-22 18:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/391162b411b775da381cb2635dc7b821",
+    "scraped_at": "2026-09-13 18:24:12",
+    "venue_name": "SUB LIVE",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "音田雅則 Masanori Ota",
+        "wiki_intro": "音田雅則，日本新生代創作男歌手，因在TikTok等社群平台上的翻唱與自創曲走紅。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": "音田雅則2026 台北SUB LIVE 開唱，巡演唯一海外場",
+        "recent_news_url": "https://www.niusnews.com/=P0f1ff2w0"
+      }
+    ]
+  },
+  {
+    "event_id": 77,
+    "event_name": "10.2（五）DISORDER LIVE ＃22 大墩釀、未來肆、茜茜溱妮",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-02 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04212bf",
+    "scraped_at": "2026-09-13 18:24:15",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "大墩釀 / 未來肆 / 茜茜溱妮",
+        "wiki_intro": "台灣獨立樂團共演活動。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立樂團",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 78,
+    "event_name": "EMI NODA Live Tour \"film\" in Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-07-12 12:00:00",
+    "event_time": "2027-01-30 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/4532326416b0ccf5f7e1fbb8769337e7",
+    "scraped_at": "2026-09-13 18:24:20",
+    "venue_name": "The Wall Live House",
+    "venue_address": "台北市文山區羅斯福路四段200號B1",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "VIP門票",
+        "price": 2500
+      },
+      {
+        "ticket_type": "一般預售票",
+        "price": 2000
+      }
+    ],
+    "artists": [
+      {
+        "name": "EMI NODA 野田愛實",
+        "wiki_intro": "野田愛實（Noda Emi），日本女性創作歌手，以充滿爆發力的嗓音活躍於樂壇與YouTube。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": "Live Tour \"film\" in Taipei | 野田愛実 首場個人海外演唱會",
+        "recent_news_url": "https://www.nodaemi.com/zh/live-tour-film-in-taipai"
+      }
+    ]
+  },
+  {
+    "event_id": 79,
+    "event_name": "MONZEN NO KOZO 2ndEP release tour 2026 ｜ resource ...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-03 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04209e9",
+    "scraped_at": "2026-09-13 18:24:21",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "MONZEN NO KOZŌ 門前ノ小僧",
+        "wiki_intro": "MONZEN NO KOZŌ（門前ノ小僧）是由日本藝術家 eco mānie 於 2024 年開始活動的音樂企劃。",
+        "wiki_url": null,
+        "artist_genres_summary": "日本獨立音樂",
+        "recent_news_title": "MONZEN NO KOZO 2ndEP release tour 2026 ｜ resource",
+        "recent_news_url": "https://kpmc.com.tw/program/2026-lwh-1002/"
+      }
+    ]
+  },
+  {
+    "event_id": 80,
+    "event_name": "cephalo x iVy Live in Taipei",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-17 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04183cd",
+    "scraped_at": "2026-09-13 18:24:27",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "cephalo x iVy",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 81,
+    "event_name": "FLOW WORLD TOUR 2026 \"NARUTO THE ROCK\" Live in Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-06-26 12:00:00",
+    "event_time": "2026-10-18 19:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/9ad96f595f7a69c462551debfe4f88c0",
+    "scraped_at": "2026-09-13 18:24:27",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "一般票",
+        "price": 4200
+      },
+      {
+        "ticket_type": "一般票",
+        "price": 2800
+      }
+    ],
+    "artists": [
+      {
+        "name": "FLOW",
+        "wiki_intro": "FLOW是日本的一支五人搖滾樂團，曾為《火影忍者》、《Code Geass 反叛的魯路修》等多部熱門動畫演唱主題曲。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/FLOW",
+        "artist_genres_summary": "J-Rock、動漫音樂",
+        "recent_news_title": "FLOW WORLD TOUR 2026 「NARUTO THE ROCK」Live in Taipei",
+        "recent_news_url": "https://eventgo.tw/event/fdd34e54-f8f9-41a8-83f7-520b219eb247"
+      }
+    ]
+  },
+  {
+    "event_id": 82,
+    "event_name": "Control T《Waste Land》十週年發片巡迴｜小琉球 Sea Daze 站",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-08-20 12:00:00",
+    "event_time": "2026-10-02 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04177db",
+    "scraped_at": "2026-09-13 18:24:33",
+    "venue_name": "Sea Daze",
+    "venue_address": "屏東縣琉球鄉肚仔坪路13號",
+    "venue_city": "屏東縣",
+    "venue_description": "小琉球知名海景餐酒館展演空間",
+    "tickets": [
+      {
+        "ticket_type": "預售單人票",
+        "price": 400
+      },
+      {
+        "ticket_type": "預售雙人票",
+        "price": 700
+      },
+      {
+        "ticket_type": "現場單人票",
+        "price": 500
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 250
+      }
+    ],
+    "artists": [
+      {
+        "name": "Control T",
+        "wiki_intro": "台灣獨立音樂組合。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂、民謠",
+        "recent_news_title": "Control T《Waste Land》十週年發片巡迴｜小琉球Sea Daze 站",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv04177db"
+      }
+    ]
+  },
+  {
+    "event_id": 83,
+    "event_name": "2026 台中國際紋身藝術節",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/a10378c64dbbc2c6a9a4bf86c499f819",
+    "scraped_at": "2026-09-13 18:24:35",
+    "venue_name": "台中世貿二館",
+    "venue_address": "台中市西屯區天保街60號",
+    "venue_city": "台中市",
+    "venue_description": "國際刺青展",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "台中國際紋身藝術節",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "展覽、藝術節",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 84,
+    "event_name": "王泰翔2000wtx  2026演唱會《愛・輪迴Karma》",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-26 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04182a9",
+    "scraped_at": "2026-09-13 18:24:40",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "王泰翔 2000wtx",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 85,
+    "event_name": "2026 囪擊音樂祭",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-08-27 12:00:00",
+    "event_time": "2026-10-24 11:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/910966a2ea90f14ecad1efe8889f2aac",
+    "scraped_at": "2026-09-13 18:24:42",
+    "venue_name": "十鼓文創園區-夢糖劇場",
+    "venue_address": "台南市仁德區文華路二段326號",
+    "venue_city": "台南市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "囪擊音樂祭",
+        "wiki_intro": "在百年糖廠舉辦的大型獨立音樂祭。",
+        "wiki_url": null,
+        "artist_genres_summary": "音樂節、獨立搖滾",
+        "recent_news_title": "2026 囪擊音樂祭Strike Rock Festival 十鼓文創園區盛大回歸",
+        "recent_news_url": "https://www.artists.tw/gigs/20261024-tainan-2026-%E5%9B%AA%E6%93%8A%E9%9F%B3%E6%A8%82%E7%A5%AD/"
+      }
+    ]
+  },
+  {
+    "event_id": 86,
+    "event_name": "10.3 (Fri.)  [ALTERED STATES] Holotropics x Temple Smoke x ...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-03 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041546c",
+    "scraped_at": "2026-09-13 18:24:46",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Holotropics / Temple Smoke",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂、實驗",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 87,
+    "event_name": "「TAKUYA KIMURA Live Tour 2026 Checkpoint」 in TAIPEI 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-14 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/39e011c895a371c40416497f696652bd",
+    "scraped_at": "2026-09-13 18:24:50",
+    "venue_name": "台北流行音樂中心表演廳",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "木村拓哉",
+        "wiki_intro": "木村拓哉（1972年11月13日—），日本知名男歌手、演員，前男子偶像團體SMAP成員。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89",
+        "artist_genres_summary": "J-pop、偶像",
+        "recent_news_title": "Taipei | TAKUYA KIMURA Live Tour 2026 Checkpoint Tickets",
+        "recent_news_url": "https://www.trip.com/travel-guide/attraction/taipei/taipei-takuya-kimura-live-tour-2026-checkpoint-155093112/"
+      }
+    ]
+  },
+  {
+    "event_id": 88,
+    "event_name": "Control T《Waste Land》十週年發片巡迴｜高雄站",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0417821",
+    "scraped_at": "2026-09-13 18:24:54",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Control T",
+        "wiki_intro": "台灣獨立音樂組合。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂、民謠",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 89,
+    "event_name": "LORNA SHORE LIVE IN TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-06-06 18:00:00",
+    "event_time": "2026-10-04 19:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/8fc98f35ed7a2367389b21be99fb96f6",
+    "scraped_at": "2026-09-13 18:24:58",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Lorna Shore",
+        "wiki_intro": "Lorna Shore是來自美國新澤西州的死核樂團，以極具爆發力的主唱死腔與沉重編制聞名。",
+        "wiki_url": "https://en.wikipedia.org/wiki/Lorna_Shore",
+        "artist_genres_summary": "死核、重金屬",
+        "recent_news_title": "Lorna Shore - Legacy, Taipei, Taiwan - Setlist.fm",
+        "recent_news_url": "https://www.setlist.fm/show/2026-10-04/legacy-taipei-taiwan-4bb48702.html"
+      }
+    ]
+  },
+  {
+    "event_id": 90,
+    "event_name": "EmptyORio ALL THE BEAST 高雄場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04158e9",
+    "scraped_at": "2026-09-13 18:25:00",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "EmptyORio",
+        "wiki_intro": "由滅火器吉他手鄭宇辰(ORio)領軍的台灣龐克搖滾樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%BB%85%E7%81%AB%E5%99%A8%E6%A8%82%E5%9C%98",
+        "artist_genres_summary": "龐克搖滾",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 91,
+    "event_name": "CHIAI FUJIKAWA LIVE TOUR 2026 \"RADIUS OF 3 METERS\" in TAIPEI 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/91f0a4f4836861c6b87d91ef2112cf52",
+    "scraped_at": "2026-09-13 18:25:06",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "藤川千愛",
+        "wiki_intro": "藤川千愛（1995年6月6日—），日本女歌手，前偶像團體 萬代神星（まねきケチャ）的主唱。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E8%97%A4%E5%B7%9D%E5%8D%83%E6%84%9B",
+        "artist_genres_summary": "J-pop、動漫歌曲",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 92,
+    "event_name": "FRIENDS MEETING 2026",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0418478",
+    "scraped_at": "2026-09-13 18:25:07",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "FRIENDS MEETING",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "音樂展演",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 93,
+    "event_name": "MONZEN NO KOZO 2ndEP release tour 2026 ｜ resource ...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04209e9",
+    "scraped_at": "2026-09-13 18:25:12",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "MONZEN NO KOZŌ 門前ノ小僧",
+        "wiki_intro": "MONZEN NO KOZŌ（門前ノ小僧）是由日本藝術家 eco mānie 於 2024 年開始活動的音樂企劃。",
+        "wiki_url": null,
+        "artist_genres_summary": "日本獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 94,
+    "event_name": "CHIAI FUJIKAWA LIVE TOUR 2026 \"RADIUS OF 3 METERS\" in TAIPEI VIP PASS限量加購 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/6bf36c84810b2fbfc9d6bae7908c350c",
+    "scraped_at": "2026-09-13 18:25:13",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "藤川千愛",
+        "wiki_intro": "藤川千愛（1995年6月6日—），日本女歌手，前偶像團體 萬代神星（まねきケチャ）的主唱。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E8%97%A4%E5%B7%9D%E5%8D%83%E6%84%9B",
+        "artist_genres_summary": "J-pop、動漫歌曲",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 95,
+    "event_name": "MONZEN NO KOZO 2ndEP release tour 2026 ｜ resource ...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0420335",
+    "scraped_at": "2026-09-13 18:25:17",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "MONZEN NO KOZŌ 門前ノ小僧",
+        "wiki_intro": "MONZEN NO KOZŌ（門前ノ小僧）是由日本藝術家 eco mānie 於 2024 年開始活動的音樂企劃。",
+        "wiki_url": null,
+        "artist_genres_summary": "日本獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 96,
+    "event_name": "志崎樺音台北粉絲見面會",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/14b934c1397c1f913aa0f6f005d420ba",
+    "scraped_at": "2026-09-13 18:25:20",
+    "venue_name": "HANASPACE花漾展演空間",
+    "venue_address": "台北市中正區仁愛路一段17號10樓",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "志崎樺音",
+        "wiki_intro": "志崎樺音（1997年2月8日—），日本女性聲優、歌手、音樂家。曾為《BanG Dream!》Roselia 鍵盤手白金燐子配音。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%BF%97%E5%B4%8E%E6%A8%BA%E9%9F%B3",
+        "artist_genres_summary": "聲優、J-pop",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 97,
+    "event_name": "風旅藏花：璀璨之篋 曖昧な宝石一週年紀念公演",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04166d0",
+    "scraped_at": "2026-09-13 18:25:25",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "曖昧な宝石",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "地下偶像",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 98,
+    "event_name": "CHIIKAWA DAYS 台北特展（一般全票）",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/68bf41e935407b2c628124ae4a83ce7f",
+    "scraped_at": "2026-09-13 18:25:28",
+    "venue_name": "華山1914文創園區 東2館",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "吉伊卡哇 (Chiikawa)",
+        "wiki_intro": "吉伊卡哇（日語：ちいかわ）是日本漫畫家 Nagano 創作的網路漫畫作品，以可愛卻帶有現實殘酷感的角色聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87",
+        "artist_genres_summary": "IP展覽",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 99,
+    "event_name": "10.9（五）Johnny Pandora 台中專場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041795d",
+    "scraped_at": "2026-09-13 18:25:32",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Johnny Pandora",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "Rockabilly",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 100,
+    "event_name": "CHIIKAWA DAYS 台北特展（特典套票）",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/ef81094006107ac4f6c744008a46e9fe",
+    "scraped_at": "2026-09-13 18:25:36",
+    "venue_name": "華山1914文創園區 東2館",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "吉伊卡哇 (Chiikawa)",
+        "wiki_intro": "吉伊卡哇（日語：ちいかわ）是日本漫畫家 Nagano 創作的網路漫畫作品，以可愛卻帶有現實殘酷感的角色聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87",
+        "artist_genres_summary": "IP展覽",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 101,
+    "event_name": "2026 法白 13 週年 LIVE PODCAST SH...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-09 19:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv03987ad",
+    "scraped_at": "2026-09-13 18:25:38",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "法律白話文運動",
+        "wiki_intro": "台灣法律科普推廣媒體。",
+        "wiki_url": null,
+        "artist_genres_summary": "Podcast、講座",
+        "recent_news_title": "【呱吉直播】人生晚長EP126：法綠白話文｜來賓 - YouTube",
+        "recent_news_url": "https://www.youtube.com/watch?v=auZrugeQ5Qc"
+      }
+    ]
+  },
+  {
+    "event_id": 102,
+    "event_name": "岡崎體育10週年巡演＂Zepp10 連單全押＂<台北水啦賞>",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/b767f90ef9f546b3f7eded5755576cd6",
+    "scraped_at": "2026-09-13 18:25:44",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "岡崎體育",
+        "wiki_intro": "岡崎體育（日語：岡崎体育，1989年7月3日—），日本男性創作歌手，以充滿幽默感與巧思的音樂影片及現場演出聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E9%AB%94%E8%82%B2",
+        "artist_genres_summary": "J-pop、電子搖滾",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 103,
+    "event_name": "暈暈眾生相 —— 童話裡都是騙人的 Live Podcast 六週年童鞋會",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04063d8",
+    "scraped_at": "2026-09-13 18:25:44",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "童話裡都是騙人的",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "Podcast",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 104,
+    "event_name": "那閃爍的到底是什麼【恆春場】",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0414821",
+    "scraped_at": "2026-09-13 18:25:51",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "屏東縣",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "那閃爍的到底是什麼",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 105,
+    "event_name": "Vaundy ASIA  ARENA TOUR 2026 “HORO” IN TAIPEI 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://ticketplus.com.tw/activity/6c3d8c24e0f00c9c84777615c001bebe",
+    "scraped_at": "2026-09-13 18:25:51",
+    "venue_name": "台北小巨蛋",
+    "venue_address": "台北市松山區南京東路四段2號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Vaundy",
+        "wiki_intro": "Vaundy（2000年6月6日—），日本全方位創作男歌手，一手包辦作詞、作曲、編曲，曲風融合R&B、搖滾與City Pop。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Vaundy",
+        "artist_genres_summary": "J-pop、R&B",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 106,
+    "event_name": "那閃爍的到底是什麼【台東場】",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0414936",
+    "scraped_at": "2026-09-13 18:25:57",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台東縣",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "那閃爍的到底是什麼",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 107,
+    "event_name": "Vaundy ASIA  ARENA TOUR 2026 “HORO” IN TAIPEI",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-05-13 12:00:00",
+    "event_time": "2026-10-31 19:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/a56fce0af2da4d41e26b2dfa34b7babc",
+    "scraped_at": "2026-09-13 18:25:58",
+    "venue_name": "台北小巨蛋",
+    "venue_address": "台北市松山區南京東路四段2號",
+    "venue_city": "台北市",
+    "venue_description": "Taipei Arena",
+    "tickets": [
+      {
+        "ticket_type": "一般席",
+        "price": 5880
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 4880
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 3880
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 2880
+      },
+      {
+        "ticket_type": "一般席",
+        "price": 800
+      },
+      {
+        "ticket_type": "身心障礙票",
+        "price": 400
+      }
+    ],
+    "artists": [
+      {
+        "name": "Vaundy",
+        "wiki_intro": "Vaundy（2000年6月6日—），日本全方位創作男歌手，一手包辦作詞、作曲、編曲，曲風融合R&B、搖滾與City Pop。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Vaundy",
+        "artist_genres_summary": "J-pop、R&B",
+        "recent_news_title": "【懶人包】Vaundy 小巨蛋演唱會2026 怎麼登記抽選？搶票流程＋",
+        "recent_news_url": "https://www.shinygoods.tw/vaundy-taipei-arena-2026-lottery-guide"
+      }
+    ]
+  },
+  {
+    "event_id": 108,
+    "event_name": "邱淑蟬 2026《無爭》發行巡迴【台北場】",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-16 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0418930",
+    "scraped_at": "2026-09-13 18:26:03",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "邱淑蟬",
+        "wiki_intro": "邱淑蟬，台灣客家創作歌手，曾獲金曲獎等獎項肯定。2026年發行全新客語創作EP《無爭》。",
+        "wiki_url": null,
+        "artist_genres_summary": "客家音樂、獨立民謠",
+        "recent_news_title": "雙金肯定後再推力作！邱淑蟬2026全新客語創作EP《無爭》書寫女性",
+        "recent_news_url": "https://www.mtv.com.tw/news/newsdetail/13712"
+      }
+    ]
+  },
+  {
+    "event_id": 109,
+    "event_name": "The Omnific Asia Tour Live in Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-29 19:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/d1b4147aaeaa2e233f0fdc827cd55310",
+    "scraped_at": "2026-09-13 18:26:06",
+    "venue_name": "野地方 Wild Lab",
+    "venue_address": "台北市中正區杭州南路一段147號B1",
+    "venue_city": "台北市",
+    "venue_description": "獨立展演空間",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Omnific",
+        "wiki_intro": "The Omnific 是來自澳洲的前衛搖滾樂團，以獨特的「雙貝斯與鼓」編制聞名。",
+        "wiki_url": null,
+        "artist_genres_summary": "前衛搖滾、純音樂",
+        "recent_news_title": "The Omnific Asia Tour Live in Taipei｜演出資訊 - Artists.tw",
+        "recent_news_url": "https://www.artists.tw/gigs/20260929-taipei-the-omnific-asia-tour-live-in-taipei/"
+      }
+    ]
+  },
+  {
+    "event_id": 110,
+    "event_name": "2026 摔角兄弟會-台中場 Wrestling Brotherhood",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04188e3",
+    "scraped_at": "2026-09-13 18:26:10",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "摔角兄弟會 (血肉果汁機等)",
+        "wiki_intro": "由血肉果汁機、Beyond Cure、SACRED PURGE共演的巡迴活動。",
+        "wiki_url": null,
+        "artist_genres_summary": "重金屬、硬核",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 111,
+    "event_name": "行腳巡禮MISOGI ～番外篇～ in 台灣 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-05-18 13:00:00",
+    "event_time": "2026-10-04 18:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/94cb4c96a0237447b068117608ae96c8",
+    "scraped_at": "2026-09-13 18:26:14",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "1F座席",
+        "price": 2200
+      },
+      {
+        "ticket_type": "2F座席",
+        "price": 2200
+      },
+      {
+        "ticket_type": "身心障礙者優惠席",
+        "price": 1100
+      }
+    ],
+    "artists": [
+      {
+        "name": "-真天地開闢集團-慈愚挫愚",
+        "wiki_intro": "以「為愚昧之人伸出救贖之手」為概念，於2016年正式展開活動的三人編制樂團。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-Rock、視覺系",
+        "recent_news_title": "行腳巡禮MISOGI ～番外篇～ in 台灣登記抽選- Ticket Plus遠大售票系統",
+        "recent_news_url": "https://ticketplus.com.tw/activity/94cb4c96a0237447b068117608ae96c8"
+      }
+    ]
+  },
+  {
+    "event_id": 112,
+    "event_name": "草包小姐 2026 專場 ⟪霧之後⟫",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04174f6",
+    "scraped_at": "2026-09-13 18:26:19",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": null,
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "草包小姐",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 113,
+    "event_name": "行腳巡禮MISOGI ～番外篇～ in 台灣",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-06-02 12:00:00",
+    "event_time": "2026-10-04 18:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/2d71c25c10caa0f43c02bd61e1840655",
+    "scraped_at": "2026-09-13 18:26:22",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "1F座席",
+        "price": 2200
+      },
+      {
+        "ticket_type": "2F座席",
+        "price": 2200
+      },
+      {
+        "ticket_type": "身心障礙者優惠席",
+        "price": 1100
+      }
+    ],
+    "artists": [
+      {
+        "name": "-真天地開闢集團-慈愚挫愚",
+        "wiki_intro": "以「為愚昧之人伸出救贖之手」為概念，於2016年正式展開活動的三人編制樂團。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-Rock、視覺系",
+        "recent_news_title": "行腳巡禮MISOGI ～番外篇～ in 台灣登記抽選- Ticket Plus遠大售票系統",
+        "recent_news_url": "https://ticketplus.com.tw/activity/94cb4c96a0237447b068117608ae96c8"
+      }
+    ]
+  },
+  {
+    "event_id": 114,
+    "event_name": "那閃爍的到底是什麼【花蓮場】",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0415037",
+    "scraped_at": "2026-09-13 18:26:26",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "花蓮縣",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "那閃爍的到底是什麼",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 115,
+    "event_name": "Moi dix Mois Live in Taipei 2026 with Kaya 〜Compagnon de route〜",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-25 18:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/dd245f0210985ec16a62e87212366b38",
+    "scraped_at": "2026-09-13 18:26:31",
+    "venue_name": "The Wall Live House",
+    "venue_address": "台北市文山區羅斯福路四段200號B1",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "Moi dix Mois / Kaya",
+        "wiki_intro": "Moi dix Mois 是一支日本的哥德金屬、視覺系樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Moi_dix_Mois",
+        "artist_genres_summary": "哥德金屬、視覺系",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 116,
+    "event_name": "Theseus忒修斯 文藝中年討債集團 高雄強制執行命令場",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-09-09 12:00:00",
+    "event_time": "2026-10-21 19:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04210c6",
+    "scraped_at": "2026-09-13 18:26:33",
+    "venue_name": "高雄百樂門酒館",
+    "venue_address": "高雄市三民區民族一路70號",
+    "venue_city": "高雄市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 555
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 999
+      }
+    ],
+    "artists": [
+      {
+        "name": "Theseus忒修斯",
+        "wiki_intro": "Theseus忒修斯為台灣雙男聲演唱組合，風格橫跨民謠與北歐搖滾。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": "Theseus忒修斯文藝中年討債集團高雄強制執行命令場 - iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv04210c6"
+      }
+    ]
+  },
+  {
+    "event_id": 117,
+    "event_name": "誰說我不在乎 高明駿2026演唱會-台北站",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-23 19:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/f48ffe293f97e29747fe9f9d384efbf6",
+    "scraped_at": "2026-09-13 18:26:39",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "新莊宏匯廣場",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "高明駿",
+        "wiki_intro": "高明駿（1964年4月27日—），出生於緬甸的台灣流行歌曲男歌手，以獨特的沙啞嗓音聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E9%AB%98%E6%98%8E%E9%A7%BF",
+        "artist_genres_summary": "華語流行",
+        "recent_news_title": "誰說我不在乎高明駿2026演唱會-台北站｜演出資訊 - Artists.tw",
+        "recent_news_url": "https://www.artists.tw/gigs/20261023-taipei-%E8%AA%B0%E8%AA%AA%E6%88%91%E4%B8%8D%E5%9C%A8%E4%B9%8E-%E9%AB%98%E6%98%8E%E9%A7%BF2026%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8F%B0%E5%8C%97%E7%AB%99/"
+      }
+    ]
+  },
+  {
+    "event_id": 118,
+    "event_name": "A_Root同根生十週年臺灣小巡演《神遊〉高雄場",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-08-13 12:00:00",
+    "event_time": "2026-10-24 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04127df",
+    "scraped_at": "2026-09-13 18:26:39",
+    "venue_name": "LIVE WAREHOUSE 小庫",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區大義C10倉庫",
+    "tickets": [
+      {
+        "ticket_type": "預售單人票",
+        "price": 800
+      },
+      {
+        "ticket_type": "預售雙人票",
+        "price": 1500
+      },
+      {
+        "ticket_type": "現場單人票",
+        "price": 900
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 400
+      }
+    ],
+    "artists": [
+      {
+        "name": "A_Root同根生",
+        "wiki_intro": "同根生 A_Root 是一支結合台灣傳統樂器與西方樂器的當代實驗民謠樂團，擅長將台灣民間傳說與妖怪故事融入創作。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%90%8C%E6%A0%B9%E7%94%9F",
+        "artist_genres_summary": "實驗民謠、世界音樂",
+        "recent_news_title": "A_Root同根生十週年臺灣小巡演《神遊〉高雄場 - iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv04127df"
+      }
+    ]
+  },
+  {
+    "event_id": 119,
+    "event_name": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset...》",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-09-10 12:00:00",
+    "event_time": "2026-11-27 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04194bf",
+    "scraped_at": "2026-09-13 18:26:47",
+    "venue_name": "Legacy Taichung",
+    "venue_address": "台中市西屯區安和路117號",
+    "venue_city": "台中市",
+    "venue_description": "本筆採信台中場資訊",
+    "tickets": [
+      {
+        "ticket_type": "單人預售票",
+        "price": 1700
+      },
+      {
+        "ticket_type": "雙人預售套票",
+        "price": 3200
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 2000
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 850
+      }
+    ],
+    "artists": [
+      {
+        "name": "小球 (莊鵑瑛)",
+        "wiki_intro": "莊鵑瑛（1985年2月28日—），藝名小球，台灣女歌手，前「棉花糖」主唱。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E8%8E%8A%E9%B5%91%E7%91%9B",
+        "artist_genres_summary": "獨立流行",
+        "recent_news_title": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv0419556"
+      }
+    ]
+  },
+  {
+    "event_id": 120,
+    "event_name": "MAHIRU ONE-MAN LIVE 2027 in Zepp New Taipei 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2025-11-15 20:00:00",
+    "event_time": "2027-03-27 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/a22262dab0ab7f83a1f8e9a918bd9eb6",
+    "scraped_at": "2026-09-13 18:26:48",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "宏匯廣場 8F",
+    "tickets": [
+      {
+        "ticket_type": "1F站席",
+        "price": 2200
+      },
+      {
+        "ticket_type": "2F座席A區",
+        "price": 3000
+      },
+      {
+        "ticket_type": "2F座席B區",
+        "price": 2800
+      },
+      {
+        "ticket_type": "身心障礙者優惠席",
+        "price": 1100
+      }
+    ],
+    "artists": [
+      {
+        "name": "MAHIRU 茉ひる",
+        "wiki_intro": "MAHIRU（茉ひる），來自日本三重縣的次世代創作型女歌手，以抒情流行為主軸。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": "【 MAHIRU One-Man Live Zepp New Taipei 】",
+        "recent_news_url": "https://ticketplus.com.tw/activity/b6330ee222065c1e8ce3d6b8ce533931"
+      }
+    ]
+  },
+  {
+    "event_id": 121,
+    "event_name": "A_Root同根生十週年臺灣小巡演《神遊〉台南場",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-08-13 12:00:00",
+    "event_time": "2026-10-25 19:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0412814",
+    "scraped_at": "2026-09-13 18:26:53",
+    "venue_name": "小轉角ArtDeCorner",
+    "venue_address": "臺南市中西區開山里開山路235巷13號",
+    "venue_city": "台南市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "預售單人票",
+        "price": 550
+      },
+      {
+        "ticket_type": "現場單人票",
+        "price": 650
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 275
+      }
+    ],
+    "artists": [
+      {
+        "name": "A_Root同根生",
+        "wiki_intro": "同根生 A_Root 是一支結合台灣傳統樂器與西方樂器的當代實驗民謠樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%90%8C%E6%A0%B9%E7%94%9F",
+        "artist_genres_summary": "實驗民謠、世界音樂",
+        "recent_news_title": "A_Root同根生十週年臺灣小巡演《神遊〉台南場 - iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv0412814"
+      }
+    ]
+  },
+  {
+    "event_id": 122,
+    "event_name": "MAHIRU ONE-MAN LIVE 2027 in Zepp New Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-05-27 12:00:00",
+    "event_time": "2027-03-27 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/2f6431aac30afb722f615b9b95aabb0e",
+    "scraped_at": "2026-09-13 18:26:56",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "宏匯廣場 8F",
+    "tickets": [
+      {
+        "ticket_type": "1F站席",
+        "price": 2200
+      },
+      {
+        "ticket_type": "2F座席A區",
+        "price": 3000
+      },
+      {
+        "ticket_type": "2F座席B區",
+        "price": 2800
+      },
+      {
+        "ticket_type": "身心障礙者優惠席",
+        "price": 1100
+      }
+    ],
+    "artists": [
+      {
+        "name": "MAHIRU 茉ひる",
+        "wiki_intro": "MAHIRU（茉ひる），來自日本三重縣的次世代創作型女歌手。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": "Mahiru茉ひる演唱會2027台北｜門票優先公售攻略+購票連結+座位表",
+        "recent_news_url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60347138/mahiru%E8%8C%89%E3%81%B2%E3%82%8B%E6%BC%94%E5%94%B1%E6%9C%832027%E5%8F%B0%E5%8C%97-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8"
+      }
+    ]
+  },
+  {
+    "event_id": 123,
+    "event_name": "紙鳶Seizer《缺頁的名冊》發片專場",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-09-09 12:00:00",
+    "event_time": "2026-10-25 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0412425",
+    "scraped_at": "2026-09-13 18:27:00",
+    "venue_name": "SUB LIVE",
+    "venue_address": "台北市南港區市民大道八段99號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "紙鳶Seizer",
+        "wiki_intro": "成團於2024年的台灣獨立樂團紙鳶Seizer。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": "紙鳶Seizer 2026年全新專輯《缺頁的名冊》於今日（9/9）正式發行",
+        "recent_news_url": "https://www.hitoradio.com/newweb/83745hitonews"
+      }
+    ]
+  },
+  {
+    "event_id": 124,
+    "event_name": "MAHIRU ONE-MAN LIVE 2027 in Zepp New Taipei VIP PASS限量加購 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": "2026-06-10 20:00:00",
+    "event_time": "2027-03-27 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/69bc76ae2f280748cd8cd8f7d7444008",
+    "scraped_at": "2026-09-13 18:27:03",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "宏匯廣場 8F",
+    "tickets": [
+      {
+        "ticket_type": "1F站席",
+        "price": 2200
+      },
+      {
+        "ticket_type": "2F座席A區",
+        "price": 3000
+      },
+      {
+        "ticket_type": "2F座席B區",
+        "price": 2800
+      },
+      {
+        "ticket_type": "身心障礙者優惠席",
+        "price": 1100
+      }
+    ],
+    "artists": [
+      {
+        "name": "MAHIRU 茉ひる",
+        "wiki_intro": "MAHIRU（茉ひる），來自日本三重縣的次世代創作型女歌手。",
+        "wiki_url": null,
+        "artist_genres_summary": "J-pop、創作歌手",
+        "recent_news_title": "MAHIRU ONE-MAN LIVE 2027 in Zepp New Taipei 1日目",
+        "recent_news_url": "https://www.eventernote.com/events/477314"
+      }
+    ]
+  },
+  {
+    "event_id": 125,
+    "event_name": "A_Root同根生十週年臺灣小巡演《神遊〉南投場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0412902",
+    "scraped_at": "2026-09-13 18:27:07",
+    "venue_name": null,
+    "venue_address": null,
+    "venue_city": "南投縣",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "預售單人票",
+        "price": 550
+      },
+      {
+        "ticket_type": "現場單人票",
+        "price": 650
+      },
+      {
+        "ticket_type": "身障票",
+        "price": 275
+      }
+    ],
+    "artists": [
+      {
+        "name": "A_Root同根生",
+        "wiki_intro": "同根生 A_Root 是一支結合台灣傳統樂器與西方樂器的當代實驗民謠樂團。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%90%8C%E6%A0%B9%E7%94%9F",
+        "artist_genres_summary": "實驗民謠、世界音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 126,
+    "event_name": "Mili — One Million Moons Asia Tour 2025–2026 — Taipei 登記抽選",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-17 19:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/73c436e142310d8b01a3a0ccaec87356",
+    "scraped_at": "2026-09-13 18:27:10",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "（原訂7/11因颱風延期）",
+    "tickets": [
+      {
+        "ticket_type": "1F VIP1",
+        "price": 3880
+      },
+      {
+        "ticket_type": "2F VIP2",
+        "price": 3880
+      },
+      {
+        "ticket_type": "1F GA1",
+        "price": 3080
+      },
+      {
+        "ticket_type": "2F GA3",
+        "price": 2880
+      },
+      {
+        "ticket_type": "1F GA2",
+        "price": 1980
+      },
+      {
+        "ticket_type": "2F身障席",
+        "price": 1200
+      }
+    ],
+    "artists": [
+      {
+        "name": "Mili",
+        "wiki_intro": "Mili 是由日本與加拿大成員組成的一支跨國獨立音樂團體，以古典音樂融合電子樂、後搖滾等風格聞名，並大量參與節奏遊戲與動畫配樂。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Mili",
+        "artist_genres_summary": "獨立音樂、ACG配樂",
+        "recent_news_title": "【延期公告】Mili — One Million Moons Asia Tour 2025–2026 — Taipei 演出延期",
+        "recent_news_url": "https://www.playmusic.tw/column_info.php?id=27996&type=jknews"
+      }
+    ]
+  },
+  {
+    "event_id": 127,
+    "event_name": "PHANTASMAGORIA： Psychedelic Halloween Party",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-30 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04197dd",
+    "scraped_at": "2026-09-13 18:27:14",
+    "venue_name": "LIVE WAREHOUSE 小庫",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區大義C10倉庫",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "PHANTASMAGORIA 萬聖節派對群星",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "電音、派對",
+        "recent_news_title": "PHANTASMAGORIA： Psychedelic Halloween Party | iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv04197dd"
+      }
+    ]
+  },
+  {
+    "event_id": 128,
+    "event_name": "Mili — One Million Moons Asia Tour 2025–2026 — Taipei",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-17 19:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/9f7590dd5603c0629c4cdbbaa537c53e",
+    "scraped_at": "2026-09-13 18:27:18",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": "（原訂7/11因颱風延期）",
+    "tickets": [
+      {
+        "ticket_type": "1F VIP1",
+        "price": 3880
+      },
+      {
+        "ticket_type": "2F VIP2",
+        "price": 3880
+      },
+      {
+        "ticket_type": "1F GA1",
+        "price": 3080
+      },
+      {
+        "ticket_type": "2F GA3",
+        "price": 2880
+      },
+      {
+        "ticket_type": "1F GA2",
+        "price": 1980
+      },
+      {
+        "ticket_type": "2F身障席",
+        "price": 1200
+      }
+    ],
+    "artists": [
+      {
+        "name": "Mili",
+        "wiki_intro": "Mili 是由日本與加拿大成員組成的一支跨國獨立音樂團體，以古典音樂融合電子樂、後搖滾等風格聞名。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/Mili",
+        "artist_genres_summary": "獨立音樂、ACG配樂",
+        "recent_news_title": "Mili — One Million Moons Asia Tour 2025–2026 — Taipei 登記抽選",
+        "recent_news_url": "https://ticketplus.com.tw/activity/73c436e142310d8b01a3a0ccaec87356"
+      }
+    ]
+  },
+  {
+    "event_id": 129,
+    "event_name": "X-Formosa 2026 彩虹音樂節",
+    "source_site": "indievox",
+    "ticket_sale_time": "2026-05-23 11:00:00",
+    "event_time": "2026-10-30 22:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0404354",
+    "scraped_at": "2026-09-13 18:27:20",
+    "venue_name": "新北市工商展覽中心",
+    "venue_address": "新北市五股區五權路1號",
+    "venue_city": "新北市",
+    "venue_description": "同志大遊行官方大型派對",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "X-Formosa 彩虹音樂節",
+        "wiki_intro": "台灣年度最受期待的同志音樂盛會，配合台灣同志遊行期間舉辦多場大型派對活動。",
+        "wiki_url": null,
+        "artist_genres_summary": "音樂節、電音派對",
+        "recent_news_title": "新北工商展覽中心｜ NEW ERA X-Formosa 2026 彩虹音樂節",
+        "recent_news_url": "https://formosapride.com/2026/venue.php"
+      }
+    ]
+  },
+  {
+    "event_id": 130,
+    "event_name": "RUSH BALL 2026 in Taipei & Taichung on the ROAD",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-19 18:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/082844c8c60bbeaef48e6717e38676c0",
+    "scraped_at": "2026-09-13 18:27:26",
+    "venue_name": "Legacy TERA / Legacy Taichung",
+    "venue_address": "臺北市南港區市民大道八段99號 / 台中市西屯區安和路117號",
+    "venue_city": "台北市 / 台中市",
+    "venue_description": "雙線城市巡迴音樂祭",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "RUSH BALL",
+        "wiki_intro": "日本關西最具代表性的大型野外搖滾音樂祭「RUSH BALL」，近年積極來台舉辦交流演出。",
+        "wiki_url": "https://ja.wikipedia.org/wiki/RUSH_BALL",
+        "artist_genres_summary": "音樂節、J-Rock",
+        "recent_news_title": "RUSH BALL 2026 in Taipei & Taichung on the ROAD - PEOPLE 1",
+        "recent_news_url": "https://ppppeople1.com/contents/1066436"
+      }
+    ]
+  },
+  {
+    "event_id": 131,
+    "event_name": "奔等泰迪『心宿』發片巡迴-高雄場",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-31 19:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0420732",
+    "scraped_at": "2026-09-13 18:27:28",
+    "venue_name": "LIVE WAREHOUSE 小庫",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區大義C10倉庫",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 500
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 600
+      }
+    ],
+    "artists": [
+      {
+        "name": "Abandoned Teddy 奔等泰迪",
+        "wiki_intro": "奔等泰迪成立於2018年，台灣獨立搖滾樂團。2026年發行第二張專輯「心宿」。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立搖滾",
+        "recent_news_title": "奔等泰迪『心宿』發片巡迴-高雄場 - iNDIEVOX",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv0420732"
+      }
+    ]
+  },
+  {
+    "event_id": 132,
+    "event_name": "「圓– Circle of Harmony 」藥師寺寛邦般若心經MUSIC 1...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": null,
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041703a",
+    "scraped_at": "2026-09-13 18:27:35",
+    "venue_name": "Legacy Taichung",
+    "venue_address": "台中市西屯區安和路117號",
+    "venue_city": "台中市",
+    "venue_description": "台中場",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "藥師寺寛邦",
+        "wiki_intro": "藥師寺寬邦是日本臨濟宗的僧侶兼音樂人，將佛教經文（如《般若心經》）結合現代電子音樂、吉他等元素而走紅。",
+        "wiki_url": "https://ja.wikipedia.org/wiki/%E8%96%AC%E5%B8%AB%E5%AF%BA%E5%AF%9B%E9%82%A6",
+        "artist_genres_summary": "宗教音樂、現代跨界",
+        "recent_news_title": "Circle of Harmony 」藥師寺寛邦般若心經MUSIC 10周年世界巡演in 台中",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv041703a"
+      }
+    ]
+  },
+  {
+    "event_id": 133,
+    "event_name": "RUSH BALL 2026 in 台灣 with FRIENDSHIP.",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-18 19:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/90ea3bed9648eb60e8549bb72ec9f152",
+    "scraped_at": "2026-09-13 18:27:41",
+    "venue_name": "The Wall Live House",
+    "venue_address": "台北市文山區羅斯福路四段200號B1",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "RUSH BALL (日本群星)",
+        "wiki_intro": "日本關西最具代表性的大型野外搖滾音樂祭「RUSH BALL」，近年積極來台舉辦交流演出。",
+        "wiki_url": "https://ja.wikipedia.org/wiki/RUSH_BALL",
+        "artist_genres_summary": "音樂節、J-Rock",
+        "recent_news_title": "日本音樂季RUSH BALL特別企劃！台日樂團拍謝少年 - Japaholic",
+        "recent_news_url": "https://www.japaholic.com/tw/article/detail/944646"
+      }
+    ]
+  },
+  {
+    "event_id": 134,
+    "event_name": "「圓  Circle of Harmony 」藥師寺寬邦般若心經MUSIC 1...",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-01 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041670e",
+    "scraped_at": "2026-09-13 18:27:41",
+    "venue_name": "LIVE WAREHOUSE",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "高雄場",
+    "tickets": [
+      {
+        "ticket_type": "預售票",
+        "price": 2000
+      },
+      {
+        "ticket_type": "現場票",
+        "price": 2200
+      }
+    ],
+    "artists": [
+      {
+        "name": "藥師寺寛邦",
+        "wiki_intro": "藥師寺寬邦是日本臨濟宗的僧侶兼音樂人，將佛教經文（如《般若心經》）結合現代電子音樂、吉他等元素而走紅。",
+        "wiki_url": "https://ja.wikipedia.org/wiki/%E8%96%AC%E5%B8%AB%E5%AF%BA%E5%AF%9B%E9%82%A6",
+        "artist_genres_summary": "宗教音樂、現代跨界",
+        "recent_news_title": "「圓Circle of Harmony 」藥師寺寬邦般若心經MUSIC 10週年世界",
+        "recent_news_url": "https://www.indievox.com/activity/detail/26_iv041670e"
+      }
+    ]
+  },
+  {
+    "event_id": 135,
+    "event_name": "旺福 2026 旺聖節 –《魂遊世界》",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-31 19:00:00",
+    "event_url": "https://ticketplus.com.tw/activity/5a9402cb808f6c52fcfaf4ee2a9b46bb",
+    "scraped_at": "2026-09-13 18:27:48",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "臺北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "商務艙(限量)",
+        "price": 1800
+      }
+    ],
+    "artists": [
+      {
+        "name": "旺福",
+        "wiki_intro": "旺福（Won Fu），台灣知名獨立流行樂團，成立於1998年，曲風融合民謠、復古搖滾與詼諧幽默的歌詞。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E6%97%BA%E7%A6%8F",
+        "artist_genres_summary": "獨立流行、復古搖滾",
+        "recent_news_title": "旺福2026 旺聖節–《魂遊世界》 - Ticket Plus遠大售票系統",
+        "recent_news_url": "https://ticketplus.com.tw/activity/5a9402cb808f6c52fcfaf4ee2a9b46bb"
+      }
+    ]
+  },
+  {
+    "event_id": 136,
+    "event_name": "邱淑蟬 2026《無爭》發行巡迴【台中場】",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-23 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0419045",
+    "scraped_at": "2026-09-13 18:27:48",
+    "venue_name": "Legacy Taichung",
+    "venue_address": "台中市西屯區安和路117號",
+    "venue_city": "台中市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "邱淑蟬",
+        "wiki_intro": "邱淑蟬，台灣客家創作歌手，曾獲金曲獎最佳客語歌手等獎項肯定。",
+        "wiki_url": null,
+        "artist_genres_summary": "客家音樂、獨立民謠",
+        "recent_news_title": "雙金肯定後再推力作！邱淑蟬2026全新客語創作EP《無爭》",
+        "recent_news_url": "https://www.mtv.com.tw/news/newsdetail/13712"
+      }
+    ]
+  },
+  {
+    "event_id": 137,
+    "event_name": "2026 The Next Big Thing 大團誕生（開發場5）",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-10 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv042048c",
+    "scraped_at": "2026-09-13 18:27:56",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": "華山1914創意文化園區中5A館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Next Big Thing 大團誕生群星",
+        "wiki_intro": "「大團誕生 The Next Big Thing」為台灣指標性的獨立音樂新秀挖掘與展演平台。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂、聯合展演",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 138,
+    "event_name": "張秀卿 辣妹駕到2 巡迴演唱會",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-28 19:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/190c8cf3965a985d9151d912313e2fe1",
+    "scraped_at": "2026-09-13 18:27:56",
+    "venue_name": "大臺南會展中心 ICC TAINAN",
+    "venue_address": "臺南市歸仁區歸仁十二路3號",
+    "venue_city": "台南市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "張秀卿",
+        "wiki_intro": "張秀卿（1970年5月28日—），台灣知名台語女歌手，以一曲〈車站〉紅遍大街小巷，獲獎無數。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E7%A7%80%E5%8D%BF",
+        "artist_genres_summary": "台語流行",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 139,
+    "event_name": "邱淑蟬 2026《無爭》發行巡迴【高雄場】",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-31 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv04191d6",
+    "scraped_at": "2026-09-13 18:28:02",
+    "venue_name": "LIVE WAREHOUSE",
+    "venue_address": "高雄市鹽埕區大義街2-5號",
+    "venue_city": "高雄市",
+    "venue_description": "駁二藝術特區",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "邱淑蟬",
+        "wiki_intro": "邱淑蟬，台灣客家創作歌手，曾獲金曲獎等肯定。",
+        "wiki_url": null,
+        "artist_genres_summary": "客家音樂、獨立民謠",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 140,
+    "event_name": "呂杰達x鄭翔予x鍾建暉《酒醒吧！新生代》",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-09-24 21:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/003f29db410d5da7f1e54cc41f05d00b",
+    "scraped_at": "2026-09-13 18:28:04",
+    "venue_name": "女巫店",
+    "venue_address": "台北市新生南路三段56巷7號1樓",
+    "venue_city": "台北市",
+    "venue_description": "台灣最具代表性的獨立音樂展演咖啡館",
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "呂杰達 / 鄭翔予 / 鍾建暉",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立民謠、創作歌手",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 141,
+    "event_name": "黃玠〈冬。Cry〉演唱會",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-12-19 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0419960",
+    "scraped_at": "2026-09-13 18:28:08",
+    "venue_name": "Zepp New Taipei",
+    "venue_address": "新北市新莊區新北大道四段3號8樓",
+    "venue_city": "新北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "黃玠 Dadado Huang",
+        "wiki_intro": "黃玠（1980年10月6日—），台灣獨立音樂男歌手，曾任929樂團吉他手。以溫暖木吉他與誠摯的嗓音受到歡迎。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E9%BB%83%E7%8E%A0",
+        "artist_genres_summary": "獨立民謠、流行",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 142,
+    "event_name": "再次相認 Remembering Each Other－巴賴Balai 久違的台北女巫專演",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-15 21:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/040a2b59cca1ad459f2bdcd3698dd250",
+    "scraped_at": "2026-09-13 18:28:13",
+    "venue_name": "女巫店",
+    "venue_address": "台北市新生南路三段56巷7號1樓",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "巴賴 Balai",
+        "wiki_intro": "巴賴（Balai），台灣排灣族創作歌手，曾獲金曲獎最佳原住民語歌手獎。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%B3%B4",
+        "artist_genres_summary": "原住民音樂、民謠搖滾",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 143,
+    "event_name": "琳誼 Ring《歡迎光琳2.0》巡迴演唱會",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-11-20 19:30:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv041690a",
+    "scraped_at": "2026-09-13 18:28:14",
+    "venue_name": "Legacy Taipei",
+    "venue_address": "台北市中正區八德路一段1號",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "琳誼 Ring",
+        "wiki_intro": "琳誼（Ring，1998年—），台灣女歌手，憑藉演唱台劇《俗女養成記2》插曲〈蚵仔麵線〉獲得金鐘獎肯定。",
+        "wiki_url": "https://zh.wikipedia.org/wiki/%E7%90%B3%E8%AA%BC",
+        "artist_genres_summary": "華語流行、台語流行",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 144,
+    "event_name": "蔡題謙 2026 專場【中間】",
+    "source_site": "indievox",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-17 20:00:00",
+    "event_url": "https://www.indievox.com/activity/detail/26_iv0420267",
+    "scraped_at": "2026-09-13 18:28:21",
+    "venue_name": "後台 Backstage Café",
+    "venue_address": "台北市大安區羅斯福路四段1號台大綜合體育館2樓",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "蔡題謙",
+        "wiki_intro": "台灣新生代創作男歌手。",
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂、流行",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  },
+  {
+    "event_id": 145,
+    "event_name": "房潔恩James fong 《雲朵觀察家》ft.杏仁茶Victoria",
+    "source_site": "ticketplus",
+    "ticket_sale_time": null,
+    "event_time": "2026-10-01 21:30:00",
+    "event_url": "https://ticketplus.com.tw/activity/86def539d3a8bfad2631a586ede9b015",
+    "scraped_at": "2026-09-13 18:28:22",
+    "venue_name": "女巫店",
+    "venue_address": "台北市新生南路三段56巷7號1樓",
+    "venue_city": "台北市",
+    "venue_description": null,
+    "tickets": [
+      {
+        "ticket_type": "未解析",
+        "price": -1
+      }
+    ],
+    "artists": [
+      {
+        "name": "房潔恩",
+        "wiki_intro": null,
+        "wiki_url": null,
+        "artist_genres_summary": "獨立音樂",
+        "recent_news_title": null,
+        "recent_news_url": null
+      }
+    ]
+  }
+]
